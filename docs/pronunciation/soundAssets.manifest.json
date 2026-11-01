@@ -1,0 +1,2331 @@
+{
+  "$schema": "./soundAssets.manifest.schema.md",
+  "generatedBy": "docs/pronunciation/SOUND_ASSET_RESEARCH.md + docs/pronunciation/LOCAL_ASSET_EXECUTION_PLAN.md + supplied bilingual teaching cards (2026-09-17) — Teaching targets are generated from src/lib/pronunciation/{phoneSounds,sounds}.ts.",
+  "assetStatus": {
+    "AVAILABLE": "File present and licence verified for commercial use.",
+    "NEEDS_REVIEW": "Candidate identified but licence not yet verified at the original source.",
+    "MISSING": "No candidate collected."
+  },
+  "technicalInventory": {
+    "standard": "ARPAbet / CMU Pronouncing Dictionary 39-phone set",
+    "dialect": "General American (en-US)",
+    "rationale": "The only inventory the GOPT engine can report; see services/pronunciation-gopt/app/phone_ids.json",
+    "totals": {
+      "monophthong": 10,
+      "diphthong": 5,
+      "consonant": 24,
+      "total": 39
+    },
+    "note": "Fixed by the model (services/pronunciation-gopt/app/phone_ids.json). It is a machine vocabulary, not a syllabus, and is NOT the teaching inventory below.",
+    "phones": [
+      {
+        "arpabet": "AA",
+        "ipa": "ɑ",
+        "category": "monophthong",
+        "referenceExampleWord": "odd",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "AE",
+        "ipa": "æ",
+        "category": "monophthong",
+        "referenceExampleWord": "at",
+        "goWordSoundKeys": [
+          "VOWEL_A_CAT"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "AH",
+        "ipa": "ʌ / ə",
+        "category": "monophthong",
+        "referenceExampleWord": "hut / about",
+        "goWordSoundKeys": [
+          "VOWEL_SCHWA",
+          "VOWEL_STRUT"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": true
+      },
+      {
+        "arpabet": "AO",
+        "ipa": "ɔ",
+        "category": "monophthong",
+        "referenceExampleWord": "ought",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "AW",
+        "ipa": "aʊ",
+        "category": "diphthong",
+        "referenceExampleWord": "cow",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "AY",
+        "ipa": "aɪ",
+        "category": "diphthong",
+        "referenceExampleWord": "hide",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "B",
+        "ipa": "b",
+        "category": "consonant",
+        "referenceExampleWord": "be",
+        "goWordSoundKeys": [
+          "B"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "CH",
+        "ipa": "tʃ",
+        "category": "consonant",
+        "referenceExampleWord": "cheese",
+        "goWordSoundKeys": [
+          "CH"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "D",
+        "ipa": "d",
+        "category": "consonant",
+        "referenceExampleWord": "dee",
+        "goWordSoundKeys": [
+          "D"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "DH",
+        "ipa": "ð",
+        "category": "consonant",
+        "referenceExampleWord": "thee",
+        "goWordSoundKeys": [
+          "TH_VOICED"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "EH",
+        "ipa": "ɛ",
+        "category": "monophthong",
+        "referenceExampleWord": "Ed",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "ER",
+        "ipa": "ɝ / ɚ",
+        "category": "monophthong",
+        "referenceExampleWord": "hurt",
+        "goWordSoundKeys": [
+          "VOWEL_ER"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "EY",
+        "ipa": "eɪ",
+        "category": "diphthong",
+        "referenceExampleWord": "ate",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "F",
+        "ipa": "f",
+        "category": "consonant",
+        "referenceExampleWord": "fee",
+        "goWordSoundKeys": [
+          "F"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "G",
+        "ipa": "ɡ",
+        "category": "consonant",
+        "referenceExampleWord": "green",
+        "goWordSoundKeys": [
+          "G"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "HH",
+        "ipa": "h",
+        "category": "consonant",
+        "referenceExampleWord": "he",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "IH",
+        "ipa": "ɪ",
+        "category": "monophthong",
+        "referenceExampleWord": "it",
+        "goWordSoundKeys": [
+          "VOWEL_SHORT_I"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "IY",
+        "ipa": "i",
+        "category": "monophthong",
+        "referenceExampleWord": "eat",
+        "goWordSoundKeys": [
+          "VOWEL_LONG_E"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "JH",
+        "ipa": "dʒ",
+        "category": "consonant",
+        "referenceExampleWord": "gee",
+        "goWordSoundKeys": [
+          "J"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "K",
+        "ipa": "k",
+        "category": "consonant",
+        "referenceExampleWord": "key",
+        "goWordSoundKeys": [
+          "K"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "L",
+        "ipa": "l",
+        "category": "consonant",
+        "referenceExampleWord": "lee",
+        "goWordSoundKeys": [
+          "L"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "M",
+        "ipa": "m",
+        "category": "consonant",
+        "referenceExampleWord": "me",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "N",
+        "ipa": "n",
+        "category": "consonant",
+        "referenceExampleWord": "knee",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "NG",
+        "ipa": "ŋ",
+        "category": "consonant",
+        "referenceExampleWord": "ping",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "OW",
+        "ipa": "oʊ",
+        "category": "diphthong",
+        "referenceExampleWord": "oat",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "OY",
+        "ipa": "ɔɪ",
+        "category": "diphthong",
+        "referenceExampleWord": "toy",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "P",
+        "ipa": "p",
+        "category": "consonant",
+        "referenceExampleWord": "pee",
+        "goWordSoundKeys": [
+          "P"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "R",
+        "ipa": "ɹ",
+        "category": "consonant",
+        "referenceExampleWord": "read",
+        "goWordSoundKeys": [
+          "R"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "S",
+        "ipa": "s",
+        "category": "consonant",
+        "referenceExampleWord": "sea",
+        "goWordSoundKeys": [
+          "S"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "SH",
+        "ipa": "ʃ",
+        "category": "consonant",
+        "referenceExampleWord": "she",
+        "goWordSoundKeys": [
+          "SH"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "T",
+        "ipa": "t",
+        "category": "consonant",
+        "referenceExampleWord": "tea",
+        "goWordSoundKeys": [
+          "T"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "TH",
+        "ipa": "θ",
+        "category": "consonant",
+        "referenceExampleWord": "theta",
+        "goWordSoundKeys": [
+          "TH_VOICELESS"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "UH",
+        "ipa": "ʊ",
+        "category": "monophthong",
+        "referenceExampleWord": "hood",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "UW",
+        "ipa": "u",
+        "category": "monophthong",
+        "referenceExampleWord": "two",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "V",
+        "ipa": "v",
+        "category": "consonant",
+        "referenceExampleWord": "vee",
+        "goWordSoundKeys": [
+          "V"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "W",
+        "ipa": "w",
+        "category": "consonant",
+        "referenceExampleWord": "we",
+        "goWordSoundKeys": [
+          "W"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "Y",
+        "ipa": "j",
+        "category": "consonant",
+        "referenceExampleWord": "yield",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "Z",
+        "ipa": "z",
+        "category": "consonant",
+        "referenceExampleWord": "zee",
+        "goWordSoundKeys": [
+          "Z"
+        ],
+        "isTeachingTarget": true,
+        "stressDependent": false
+      },
+      {
+        "arpabet": "ZH",
+        "ipa": "ʒ",
+        "category": "consonant",
+        "referenceExampleWord": "seizure",
+        "goWordSoundKeys": [],
+        "isTeachingTarget": false,
+        "stressDependent": false
+      }
+    ]
+  },
+  "teachingInventory": {
+    "decisionDoc": "docs/pronunciation/TEACHING_INVENTORY_DECISION.md",
+    "status": "24 targets; every target has an AVAILABLE bilingual teaching card (48 files); legacy per-target diagrams remain a fallback (16/23 available); 0/24 audio slots sourced; soundFeedbackEnabled stays false",
+    "totals": {
+      "consonant": 18,
+      "vowel": 6,
+      "diphthong": 0,
+      "total": 24
+    },
+    "visualModel": {
+      "single": 22,
+      "sequence": 2,
+      "note": "Every target's PRIMARY visual is now its own bilingual `card` (see cards below). `articulationImage`/`imageSequence` are the earlier per-diagram fallback, used only when a locale's card is somehow unusable. CH and J still never show a single misleading frame in that fallback path: both sequence panels must pass the licence gate or neither is shown."
+    },
+    "cards": {
+      "doc": "docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+      "suppliedOn": "2026-09-17",
+      "source": "GoWord product owner: two master infographic sheets (English, Arabic), 24 cards each",
+      "license": "GoWord-owned; not a third-party asset, so there is no external licence to verify",
+      "extraction": "Each master sheet was cropped into 24 per-sound files with no anatomy, colour, wording or diagram altered.",
+      "modification": "The 6 vowel cards' titles carried IPA in parentheses (e.g. \"Short I (ɪ)\"), which GoWord's own rule never shows to students. That parenthetical was masked out of the image (background-matched fill, nothing else touched) before the file was saved. No other card was modified.",
+      "totalFiles": 48,
+      "allAvailable": true
+    },
+    "articulationImageSlots": 23,
+    "sharedImageSlots": {
+      "/assets/sounds/r-retroflex.svg": [
+        "R",
+        "VOWEL_ER"
+      ],
+      "/assets/sounds/vowel-mid-central.svg": [
+        "VOWEL_STRUT",
+        "VOWEL_SCHWA"
+      ]
+    },
+    "stressDerivedTargets": {
+      "AH": {
+        "0": "VOWEL_SCHWA",
+        "1|2": "VOWEL_STRUT",
+        "unknown": null
+      },
+      "note": "AH stays ONE technical phone. Unknown stress yields no sound lesson, never a guessed one."
+    },
+    "inventoryExpansion": {
+      "addedOn": "2026-09-17",
+      "added": [
+        "T",
+        "D",
+        "K",
+        "G",
+        "S",
+        "Z"
+      ],
+      "reason": "The supplied bilingual illustration set covers 24 sounds, not just the original 18. All six are already scoreable (ordinary phones in the 39-phone technical inventory), so this is a mapping addition, not a scoring or engine change. Asset availability is an independent reason to teach a sound, distinct from the original Arabic-L1-difficulty justification for the first 18 (docs/pronunciation/TEACHING_INVENTORY_DECISION.md)."
+    },
+    "tier2Candidates": [
+      {
+        "arpabet": "EY",
+        "soundKey": "DIPHTHONG_LONG_A",
+        "label": "Long A sound",
+        "exampleWord": "day",
+        "enabled": false,
+        "note": "Needs two-panel (start/end) images. The sequence data model built for CH/J can now carry this when it is prioritised."
+      },
+      {
+        "arpabet": "OW",
+        "soundKey": "DIPHTHONG_LONG_O",
+        "label": "Long O sound",
+        "exampleWord": "go",
+        "enabled": false,
+        "note": "Same as EY."
+      }
+    ],
+    "assetResearch": {
+      "docs": [
+        "docs/pronunciation/SOUND_INVENTORY_RESEARCH.md",
+        "docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+        "docs/pronunciation/CLOUD_ASSET_RESEARCH_RESULTS.md",
+        "docs/pronunciation/LOCAL_ASSET_EXECUTION_PLAN.md",
+        "docs/pronunciation/ASSET_CREATION_SPEC.md",
+        "docs/pronunciation/LOCAL_ASSET_VERIFICATION_RESULTS.md"
+      ],
+      "researchedOn": "2026-09-17",
+      "selectedSet": {
+        "name": "Wright & McCloy mid-sagittal articulation illustrations (legacy fallback diagrams only, superseded as the primary visual by the supplied cards above)",
+        "creator": "Richard Wright, Dan McCloy (University of Washington Linguistics)",
+        "repository": "https://github.com/drammock/phonetics-teaching-assets",
+        "license": "CC0-1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attributionRequired": false,
+        "commercialUse": true,
+        "modificationAllowed": true,
+        "verifiedAt": [
+          "https://github.com/drammock/phonetics-teaching-assets/blob/main/LICENSE",
+          "https://commons.wikimedia.org/wiki/File:IPA_%CE%B8_Sagittal_Section.svg"
+        ]
+      },
+      "crop": "Cropped from the upstream whole-head drawing to the oral cavity (viewBox \"60 88 110 112\"), verified legible at the player's real 128px card size on its real background.",
+      "imageSlotsFilled": 16,
+      "imageSlotsMissing": 7,
+      "rejectedCandidates": [
+        {
+          "slot": "W (legacy fallback diagram)",
+          "candidate": "midsaggital_articulations/vowels/svg/u.svg (CC0-1.0)",
+          "verdict": "REJECTED",
+          "reason": "Path-for-path overlay against i.svg found the lip/mouth-opening region byte-identical; the set does not encode vowel lip rounding at all. Confirmed the test method separately finds a real difference between p.svg and f.svg."
+        },
+        {
+          "slot": "R / W / VOWEL_ER (legacy fallback diagram)",
+          "candidate": "Wikimedia Commons, Tavin & Nardog (various files)",
+          "verdict": "NOT ADOPTED",
+          "reason": "CC BY-SA 4.0 - legally usable but requires a visible attribution line in the player and binds any future recolour under share-alike; left as a documented option, not taken."
+        },
+        {
+          "slot": "L (legacy fallback diagram)",
+          "candidate": "Wikimedia Commons, Non-velarised l.png (Spazzo)",
+          "verdict": "NOT ADOPTED",
+          "reason": "CC BY-SA 3.0, raster, third visual style, third attribution chain, for one slot; a CC0 derivative was produced instead."
+        }
+      ]
+    },
+    "assetCollectionBlockers": [
+      "No isolated-sound audio has been sourced or verified for any of the 24 targets. GoWord TTS must not be used for it, and genuine isolation/correct-phoneme verification requires listening to a candidate at its source, which no phase of this work could do with confidence for any file found.",
+      "soundFeedbackEnabled stays false regardless of image/audio state, pending Arabic-L1 attribution validation (services/pronunciation-gopt/LIMITATIONS.md)."
+    ],
+    "targets": [
+      {
+        "soundKey": "TH_VOICELESS",
+        "category": "consonant",
+        "producedByPhones": [
+          "TH"
+        ],
+        "stress": null,
+        "label": {
+          "en": "Voiceless TH sound",
+          "note": "TH without your voice — you hear only air."
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": "صوت TH بدون اهتزاز الحنجرة — هواء فقط، كما في كلمة think.",
+          "tip": "ضع طرف لسانك برفق بين أسنانك وانفخ الهواء. لا تُشغّل صوتك — يجب أن تسمع هواءً فقط."
+        },
+        "exampleWord": "think",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/th-voiceless-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 87519,
+            "sha256": "d3ac30070551d75050e29cc4eaff0457f5b24a1049790df5d8892532a440ce3b"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/th-voiceless-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 84701,
+            "sha256": "76d8bfa2f0fdd34daf1137610299d487dd6dfbad95d2e26ae1299c97edba0ba8"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/th-voiceless.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/θ.svg",
+          "bytes": 15493,
+          "sha256": "5022bb9741a306d3d954e9a0dc62c57039d7d033418217243a46687c9f2f92ee"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/th-voiceless.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "TH_VOICED",
+        "category": "consonant",
+        "producedByPhones": [
+          "DH"
+        ],
+        "stress": null,
+        "label": {
+          "en": "Voiced TH sound",
+          "note": "TH with your voice on — your throat buzzes."
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": "صوت TH مع اهتزاز الحنجرة، كما في كلمة this.",
+          "tip": "طرف اللسان بين الأسنان كما في \"think\"، لكن شغّل صوتك حتى تشعر باهتزاز في حلقك."
+        },
+        "exampleWord": "this",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/th-voiced-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 88622,
+            "sha256": "4be0583b1178e8f7c09257ee4f2974d6e2d3fdb492b23a5f8f698bec852ce9f5"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/th-voiced-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 85965,
+            "sha256": "4022331b39114b17a0ba39356543536e69e653aef313a63e6122d5f37948b203"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/th-voiced.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/eth.svg",
+          "bytes": 15940,
+          "sha256": "d34aa7aa81808f61ef07557cb67e9964df0db013d8ad9429803bca1a1c80f0dd"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/th-voiced.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "R",
+        "category": "consonant",
+        "producedByPhones": [
+          "R"
+        ],
+        "stress": null,
+        "label": {
+          "en": "R sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "اسحب لسانك إلى الخلف والأعلى دون أن يلمس سقف الفم، وقرّب شفتيك قليلًا. يجب ألا يرتعش اللسان أو يتكرر. لف طرف اللسان للأعلى طريقة واحدة لنطق هذا الصوت — بعض المتحدثين يجمعون اللسان بدلًا من ذلك، وكلتا الطريقتين صحيحة."
+        },
+        "exampleWord": "red",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/r-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 89766,
+            "sha256": "db0d9bcd2f183e7e7335251b4c366304ec7826b69ff5f88252ce7112a141e1cd"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/r-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 97139,
+            "sha256": "8c7690b11fa5d6a18f2c7e0d8393fa376351a36d727cc8d132f59cc504e0095b"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/r-retroflex.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/r_retroflex.svg",
+          "bytes": 15193,
+          "sha256": "5c7c74886b83b994f6f9e1256c1de0ff91350f64e8948be264fd233899b80121"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/r.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "L",
+        "category": "consonant",
+        "producedByPhones": [
+          "L"
+        ],
+        "stress": null,
+        "label": {
+          "en": "L sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ألصق طرف لسانك بالنتوء خلف أسنانك العليا مباشرة، ودع الصوت يخرج من جانبي اللسان."
+        },
+        "exampleWord": "light",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/l-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 90971,
+            "sha256": "6d65e8626e95f2f92b39b6c060dc19a2f6ea0e2e358e36a34d83aeca6467bce7"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/l-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 87650,
+            "sha256": "588254841d011c59617b00ee45076a6a9de7d04bd9df7c58e23d621b3f1d424a"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/l.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets/blob/main/midsaggital_articulations/consonants/svg/d.svg (CC0-1.0); GoWord added a laterality cue",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-17",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "derived: midsaggital_articulations/consonants/svg/d.svg + GoWord laterality cue",
+          "modified": true,
+          "bytes": 15888,
+          "sha256": "1e4d29a4d0d8ce83a51a7752623b03bb9f3318812cb979a07a0b5cec8ddb8a08"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/l.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "F",
+        "category": "consonant",
+        "producedByPhones": [
+          "F"
+        ],
+        "stress": null,
+        "label": {
+          "en": "F sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ضع أسنانك العليا على شفتك السفلى وانفخ الهواء. لا تُشغّل صوتك — نفس وضع \"v\" لكن بدون اهتزاز."
+        },
+        "exampleWord": "fish",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/f-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 84675,
+            "sha256": "be00248ecc0f97023eef0c896b2b53a89a38e890951190ff5f0f180ad4fd39ab"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/f-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 83737,
+            "sha256": "257c515a3cf54902ec42e820f22ded92cf3401b251ba2aa727469339a2e1b696"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/f.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/f.svg",
+          "bytes": 15262,
+          "sha256": "0b73246773a24cf8427ffcc3df81186830405b0f08934c892c84175b867907ee"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/f.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "V",
+        "category": "consonant",
+        "producedByPhones": [
+          "V"
+        ],
+        "stress": null,
+        "label": {
+          "en": "V sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ضع أسنانك العليا على شفتك السفلى وشغّل صوتك. استمر في إخراج الهواء — ليست دفعة قصيرة مثل \"b\"."
+        },
+        "exampleWord": "very",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/v-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 86551,
+            "sha256": "d5602853a94a02f102c36f355125f9ccd148a0d6beeabad659e71648275f06a5"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/v-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 86073,
+            "sha256": "6d0529f034c67be4ec3bfb41f949c657ed9ec2052e828cb51f1db8ff9bfe4221"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/v.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/v.svg",
+          "bytes": 15709,
+          "sha256": "bdb72f5330b8f60bbac39054db1976e247cd686e118a8406b12677c07f2cc320"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/v.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "W",
+        "category": "consonant",
+        "producedByPhones": [
+          "W"
+        ],
+        "stress": null,
+        "label": {
+          "en": "W sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "قرّب شفتيك على شكل دائرة صغيرة ثم افتحهما مع بداية الصوت. لا تلمس أسنانك شفتك إطلاقًا."
+        },
+        "exampleWord": "water",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/w-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 91697,
+            "sha256": "59bfdfac4bb9382876f063a321f89b2324eb508d1d275a5878b8063666e0ee29"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/w-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 87094,
+            "sha256": "9fdf613098a99e8550959c31199ed74e834541e93cc1a2a8960ac5f6a2aea089"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/w.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "Verified and rejected: the CC0 set's u.svg does not encode lip rounding (confirmed by path overlay), so it would not show what the tip text asks for. See docs/pronunciation/SOUND_ASSET_RESEARCH.md."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/w.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "P",
+        "category": "consonant",
+        "producedByPhones": [
+          "P"
+        ],
+        "stress": null,
+        "label": {
+          "en": "P sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "أطبق شفتيك معًا، اجمع قليلًا من الهواء، ثم أطلقه بدفعة واحدة قوية دون تشغيل صوتك."
+        },
+        "exampleWord": "pen",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/p-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 86083,
+            "sha256": "73f54b601cbeab4eb6f5a5931e5ca801b00f3b4f3a700511f76a7a27a5839762"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/p-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 82534,
+            "sha256": "9271143523242d469794a4c68d436f162b77923749f18735276f8e97579ef12e"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/p.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/p.svg",
+          "bytes": 15313,
+          "sha256": "6a160dcf4a12bff4fa111b8822655cc7fcf89267dde8a781260c4e3880b1036f"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/p.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "B",
+        "category": "consonant",
+        "producedByPhones": [
+          "B"
+        ],
+        "stress": null,
+        "label": {
+          "en": "B sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "أطبق شفتيك كما في \"p\"، لكن شغّل صوتك عند الإطلاق. لا توجد دفعة هواء قوية."
+        },
+        "exampleWord": "book",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/b-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 85616,
+            "sha256": "51b66de39340dcae090fcfa6a6675c4cbaded42896696e02054f2d3521fb299c"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/b-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 83312,
+            "sha256": "2c5ff470f8e146a422a8c0d2b48037af619b3939b4392c91b13a81ee0eef63f8"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/b.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/b.svg",
+          "bytes": 15760,
+          "sha256": "e6d0d0cae45f13b81cfde9b068b89939ea537091c329597766f4dccff751ea74"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/b.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "T",
+        "category": "consonant",
+        "producedByPhones": [
+          "T"
+        ],
+        "stress": null,
+        "label": {
+          "en": "T sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ضع طرف لسانك خلف أسنانك العليا، احبس الهواء، ثم أطلقه. الصوت بدون اهتزاز."
+        },
+        "exampleWord": "tea",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/t-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 85578,
+            "sha256": "078d8c73f3a32069a54c5b3c7e25fb5adbb3918a3b813d672786a1e779881f93"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/t-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 82426,
+            "sha256": "0c2ef60cd7a69583b71ec0ea54dd04c95263c026c365e691aaec963893d7a23e"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/t-plain.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "No standalone diagram sourced for this target; the full teaching card covers it."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/t.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "D",
+        "category": "consonant",
+        "producedByPhones": [
+          "D"
+        ],
+        "stress": null,
+        "label": {
+          "en": "D sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ضع طرف لسانك خلف أسنانك العليا، احبس الهواء، ثم أطلقه مع استخدام صوتك."
+        },
+        "exampleWord": "day",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/d-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 86727,
+            "sha256": "01eb0eb7aaa240e936ff668663f620e116dff8855656384f1b8dce90826756f3"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/d-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 86184,
+            "sha256": "71ed5c09c6095c5b92f1df370fea32a1ea4598a84edd02be6228c081c4b7e9b1"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/d-plain.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "No standalone diagram sourced for this target; the full teaching card covers it."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/d.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "K",
+        "category": "consonant",
+        "producedByPhones": [
+          "K"
+        ],
+        "stress": null,
+        "label": {
+          "en": "K sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ارفع مؤخرة لسانك نحو الجزء اللين من سقف الفم، احبس الهواء، ثم أطلقه. الصوت بدون اهتزاز."
+        },
+        "exampleWord": "key",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/k-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 90794,
+            "sha256": "66c7dc5e21dffe6666b0f9e96bb620ae94db6a272339ee26ba21420152f5dba2"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/k-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 89033,
+            "sha256": "b9f254ef03c8916b1f305a07fd7e21229958227fe9b05d74217db7f0268763c4"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/k-plain.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "No standalone diagram sourced for this target; the full teaching card covers it."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/k.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "G",
+        "category": "consonant",
+        "producedByPhones": [
+          "G"
+        ],
+        "stress": null,
+        "label": {
+          "en": "G sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ارفع مؤخرة لسانك نحو الجزء اللين من سقف الفم، احبس الهواء، ثم أطلقه مع استخدام صوتك."
+        },
+        "exampleWord": "go",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/g-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 92055,
+            "sha256": "c54d7ee55738e432cd259773405d6ea357780797d207e959be1084fc65a3f513"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/g-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 93132,
+            "sha256": "6eec4293088eb796387b1bd21bb3d9a458c41a5ccdb712beeb73f237a3deef0e"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/g-plain.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "No standalone diagram sourced for this target; the full teaching card covers it."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/g.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "S",
+        "category": "consonant",
+        "producedByPhones": [
+          "S"
+        ],
+        "stress": null,
+        "label": {
+          "en": "S sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "اجعل لسانك قريبًا من أسنانك العليا واترك الهواء يمر في مجرى ضيق. الصوت بدون اهتزاز."
+        },
+        "exampleWord": "sun",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/s-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 90623,
+            "sha256": "43863be28e8446c797eb75e8a02f4514620672f379ed87b6604669838f32e475"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/s-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 88512,
+            "sha256": "637c9fab80b071da83db291533b5fc7aae75e077360fb0e69f9fbb0f852b0ccb"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/s-plain.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "No standalone diagram sourced for this target; the full teaching card covers it."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/s.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "Z",
+        "category": "consonant",
+        "producedByPhones": [
+          "Z"
+        ],
+        "stress": null,
+        "label": {
+          "en": "Z sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "اجعل لسانك قريبًا من أسنانك العليا واترك الهواء يمر في مجرى ضيق مع استخدام صوتك."
+        },
+        "exampleWord": "zoo",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/z-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 93920,
+            "sha256": "eaaa5136856b5017895a2c611fdd8f196533453304d55a2414f1a8ad15fe2657"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/z-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 92116,
+            "sha256": "df204104e32ffa71801777745b90e4b29f5885224bf1c4a642fa8719f3a38685"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/z-plain.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "No standalone diagram sourced for this target; the full teaching card covers it."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/z.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "SH",
+        "category": "consonant",
+        "producedByPhones": [
+          "SH"
+        ],
+        "stress": null,
+        "label": {
+          "en": "SH sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ارفع وسط لسانك نحو سقف الفم، وادفع شفتيك إلى الأمام، ودع الهواء يخرج بانسياب مستمر."
+        },
+        "exampleWord": "she",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/sh-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 88427,
+            "sha256": "9938f02e6a0ec932729ca041903622e4cc39d243e95dbd08951d504a2a3d171c"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/sh-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 84751,
+            "sha256": "a0c8588ee59caa4dfc7bd172c35be0cb5155a7f1694d1d3c5f4cfab2a24f3d7e"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/sh.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/ʃ_laminal.svg",
+          "bytes": 15334,
+          "sha256": "03a30682d7f9414d81a23e7d335e2fc50389162106942a7668cef61d2b9a38bd"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/sh.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "CH",
+        "category": "consonant",
+        "producedByPhones": [
+          "CH"
+        ],
+        "stress": null,
+        "label": {
+          "en": "CH sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "ابدأ بحبس الهواء بلسانك خلف أسنانك العليا، ثم أطلقه ليتحول إلى صوت SH. أبقِ صوتك مغلقًا."
+        },
+        "exampleWord": "chair",
+        "visualType": "sequence",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/ch-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 95512,
+            "sha256": "346272d3a3c05278a691af1c4483acbedf58957c5eaf16e905a954669248c65d"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/ch-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 89081,
+            "sha256": "a896205eca623a63d98a79c7d8ff69a84f0463fd593f6db425c886a349ea750a"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/ch.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "A single static frame is misleading for an affricate. This sound uses imageSequence (closure -> release) instead."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/ch.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true,
+        "imageSequence": {
+          "stages": [
+            {
+              "label": {
+                "en": "1. Stop the air",
+                "ar": "١. احبس الهواء"
+              },
+              "image": {
+                "status": "AVAILABLE",
+                "path": "/assets/sounds/t.svg",
+                "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+                "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+                "creator": "Richard Wright, Dan McCloy (University of Washington)",
+                "license": "CC0-1.0",
+                "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "attribution": null,
+                "commercialUse": true,
+                "modificationAllowed": true,
+                "verifiedOn": "2026-09-16",
+                "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+                "note": null,
+                "upstreamFile": "midsaggital_articulations/consonants/svg/t.svg",
+                "bytes": 15201,
+                "sha256": "9e73d19075fc9293596e91df0d1eb338ecc1b5ffee51e26cefe7e231e09be1fd"
+              }
+            },
+            {
+              "label": {
+                "en": "2. Release into SH",
+                "ar": "٢. أطلقه إلى صوت SH"
+              },
+              "image": {
+                "status": "AVAILABLE",
+                "path": "/assets/sounds/sh.svg",
+                "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+                "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+                "creator": "Richard Wright, Dan McCloy (University of Washington)",
+                "license": "CC0-1.0",
+                "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "attribution": null,
+                "commercialUse": true,
+                "modificationAllowed": true,
+                "verifiedOn": "2026-09-16",
+                "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+                "note": null,
+                "upstreamFile": "midsaggital_articulations/consonants/svg/ʃ_laminal.svg",
+                "bytes": 15334,
+                "sha256": "03a30682d7f9414d81a23e7d335e2fc50389162106942a7668cef61d2b9a38bd"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "soundKey": "J",
+        "category": "consonant",
+        "producedByPhones": [
+          "JH"
+        ],
+        "stress": null,
+        "label": {
+          "en": "J sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "نفس حركة \"ch\"، لكن مع تشغيل صوتك من البداية."
+        },
+        "exampleWord": "jump",
+        "visualType": "sequence",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/j-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 93933,
+            "sha256": "31261711edd46b9ddba76bb010700b382ad4591921f0f81192c8391f0497c18f"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/j-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 88274,
+            "sha256": "9cd7eeffacf61b5748e0320ba18ada2ffb82dcf6545886d3b934fba44b42005a"
+          }
+        },
+        "articulationImage": {
+          "status": "MISSING",
+          "path": "/assets/sounds/j.svg",
+          "source": null,
+          "sourceUrl": null,
+          "creator": null,
+          "license": null,
+          "licenseUrl": null,
+          "attribution": null,
+          "commercialUse": null,
+          "modificationAllowed": null,
+          "verifiedOn": null,
+          "verifiedBy": null,
+          "note": "A single static frame is misleading for an affricate. This sound uses imageSequence (closure -> release) instead."
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/j.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true,
+        "imageSequence": {
+          "stages": [
+            {
+              "label": {
+                "en": "1. Stop the air",
+                "ar": "١. احبس الهواء"
+              },
+              "image": {
+                "status": "AVAILABLE",
+                "path": "/assets/sounds/d.svg",
+                "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+                "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+                "creator": "Richard Wright, Dan McCloy (University of Washington)",
+                "license": "CC0-1.0",
+                "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "attribution": null,
+                "commercialUse": true,
+                "modificationAllowed": true,
+                "verifiedOn": "2026-09-16",
+                "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+                "note": null,
+                "upstreamFile": "midsaggital_articulations/consonants/svg/d.svg",
+                "bytes": 15648,
+                "sha256": "af784c022a2ae2654cede58d9ebc667723904937e04b83ceee1938e68d48d2ee"
+              }
+            },
+            {
+              "label": {
+                "en": "2. Release with your voice on",
+                "ar": "٢. أطلقه مع تشغيل صوتك"
+              },
+              "image": {
+                "status": "AVAILABLE",
+                "path": "/assets/sounds/zh-apical.svg",
+                "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+                "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+                "creator": "Richard Wright, Dan McCloy (University of Washington)",
+                "license": "CC0-1.0",
+                "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "attribution": null,
+                "commercialUse": true,
+                "modificationAllowed": true,
+                "verifiedOn": "2026-09-16",
+                "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+                "note": null,
+                "upstreamFile": "midsaggital_articulations/consonants/svg/ʒ_apical.svg",
+                "bytes": 15575,
+                "sha256": "4ff680cea415913aa01b7b7aa912f2bde1a751cf3be1491425c81ab38f8c58cb"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "soundKey": "VOWEL_SHORT_I",
+        "category": "vowel",
+        "producedByPhones": [
+          "IH"
+        ],
+        "stress": null,
+        "label": {
+          "en": "Short I sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "اجعله قصيرًا ومسترخيًا وفمك مفتوح قليلًا جدًا. لا تمدّه ليصبح الصوت الأطول في \"sheep\"."
+        },
+        "exampleWord": "ship",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-short-i-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 304870,
+            "sha256": "5623ef06e0073241f0422f066b3abb6b7885c04d14d21dfaa3913e635a9a76bf"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-short-i-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 311604,
+            "sha256": "ea35edec3006a0825c8598d9e56b88f0debea8dfe9279e34530f786159351733"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/vowel-short-i.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/vowels/svg/ɪ.svg",
+          "bytes": 15800,
+          "sha256": "89c1be02cee6305c78f4709c9fa8ecf0479c0dec0ec737a37812b54ce570abf4"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/vowel-short-i.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "VOWEL_LONG_E",
+        "category": "vowel",
+        "producedByPhones": [
+          "IY"
+        ],
+        "stress": null,
+        "label": {
+          "en": "Long E sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "افرد شفتيك كأنك تبتسم، وأطل الصوت قليلًا أكثر مما في \"ship\"."
+        },
+        "exampleWord": "sheep",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-long-e-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 290312,
+            "sha256": "34a0ed2ab727bd18e1cc18eb22978f32b0e083830082a33980cafdb6d3413e25"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-long-e-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 289576,
+            "sha256": "eb2c4135cbbb49b8e4d40fc76465b98d30a5fec061d9124fdf558eae6c53afab"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/vowel-long-e.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/vowels/svg/i.svg",
+          "bytes": 15771,
+          "sha256": "276a3ea25203dfcb2a8a356b00c613c7b90bd7ea47db86cbffad46cff08d12e2"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/vowel-long-e.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "VOWEL_A_CAT",
+        "category": "vowel",
+        "producedByPhones": [
+          "AE"
+        ],
+        "stress": null,
+        "label": {
+          "en": "A sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "افتح فمك على اتساعه وأبقِ لسانك منخفضًا وإلى الأمام."
+        },
+        "exampleWord": "cat",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-a-cat-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 272688,
+            "sha256": "6c578c087433018223d1b82c1a36ed2fb5047843f5cc077b045d503d43c890fb"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-a-cat-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 276256,
+            "sha256": "ac3c9c6d79af7aabded9eb8773b184d0234f110943d3295b9868aff2fe93d278"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/vowel-a-cat.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/vowels/svg/æ.svg",
+          "bytes": 15922,
+          "sha256": "8211366033f82069489e510bf752fa7f1a63e865b895a3b2723022ee16f62c50"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/vowel-a-cat.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "VOWEL_STRUT",
+        "category": "vowel",
+        "producedByPhones": [
+          "AH"
+        ],
+        "stress": "1|2",
+        "label": {
+          "en": "Short U sound",
+          "note": "The clear, stressed vowel in \"cut\"."
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": "الحركة الواضحة في المقطع المشدّد، كما في \"cut\".",
+          "tip": "أرخِ فمك في وضع محايد نصف مفتوح واجعل الصوت قصيرًا. لا تُقرّب شفتيك."
+        },
+        "exampleWord": "cut",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-strut-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 284348,
+            "sha256": "ffc804c7e414cfa7bf29c09426385698030bd9418f8ae9c3beb518a7dc6d7bdc"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-strut-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 286370,
+            "sha256": "17aa944a20b274e1bf7b317a888390638e58b2cf313577b392f296862fcc29ee"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/vowel-mid-central.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/neutral.svg",
+          "bytes": 15366,
+          "sha256": "4005fb0bc3ae583a5e7b6ab2e7803232e91150a4ab58233944618f9525b9c1b1"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/vowel-strut.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "VOWEL_SCHWA",
+        "category": "vowel",
+        "producedByPhones": [
+          "AH"
+        ],
+        "stress": "0",
+        "label": {
+          "en": "Relaxed U sound",
+          "note": "The quick, unstressed vowel at the start of \"about\"."
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": "الحركة السريعة في المقطع غير المشدّد، كما في بداية \"about\".",
+          "tip": "لا تنطق هذه الحركة بوضوح. أبقِ فمك مسترخيًا واجعلها قصيرة وخفيفة قدر الإمكان، ثم انتقل مباشرة إلى المقطع المشدّد."
+        },
+        "exampleWord": "about",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-schwa-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 295174,
+            "sha256": "4e24388bdf7e4de660461eb67200e23eef92b885a24b1780cf0a8e75346d258e"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-schwa-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 297437,
+            "sha256": "a74286e04e15d888fbeaecd84a24e943e34304a88e7baaa3f0914b2c93fbdd14"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/vowel-mid-central.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/neutral.svg",
+          "bytes": 15366,
+          "sha256": "4005fb0bc3ae583a5e7b6ab2e7803232e91150a4ab58233944618f9525b9c1b1"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/vowel-schwa.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      },
+      {
+        "soundKey": "VOWEL_ER",
+        "category": "vowel",
+        "producedByPhones": [
+          "ER"
+        ],
+        "stress": null,
+        "label": {
+          "en": "ER sound",
+          "note": null
+        },
+        "arabic": {
+          "labelPolicy": "The sound name stays English in the Arabic UI by rule; only the explanation is translated.",
+          "explanation": null,
+          "tip": "اسحب لسانك إلى الخلف والأعلى كما في \"r\"، وحافظ على هذا الوضع طوال الحركة. في المقطع غير المشدّد تكون أقصر، لكنها تحتفظ بنفس اللون."
+        },
+        "exampleWord": "bird",
+        "visualType": "single",
+        "card": {
+          "en": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-er-en.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 278254,
+            "sha256": "f3523a6fba432da2898fd92f4769f50517eb866f0d1cc353abdc6a3a69f1cf87"
+          },
+          "ar": {
+            "status": "AVAILABLE",
+            "path": "/assets/sounds/cards/vowel-er-ar.png",
+            "source": "Supplied by the GoWord product owner as final approved Study Mode teaching artwork (two master sheets, English and Arabic, 2026-09-17)",
+            "license": "GoWord-owned",
+            "attribution": null,
+            "commercialUse": true,
+            "verifiedOn": "2026-09-17",
+            "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+            "bytes": 284819,
+            "sha256": "9592c69d266eee957230a8baea1d2ac286a8baa81c94919eef6567df8de1cd84"
+          }
+        },
+        "articulationImage": {
+          "status": "AVAILABLE",
+          "path": "/assets/sounds/r-retroflex.svg",
+          "source": "https://github.com/drammock/phonetics-teaching-assets (mirrored on Wikimedia Commons)",
+          "sourceUrl": "https://github.com/drammock/phonetics-teaching-assets",
+          "creator": "Richard Wright, Dan McCloy (University of Washington)",
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": null,
+          "commercialUse": true,
+          "modificationAllowed": true,
+          "verifiedOn": "2026-09-16",
+          "verifiedBy": "GoWord asset research - docs/pronunciation/SOUND_ASSET_RESEARCH.md",
+          "note": null,
+          "upstreamFile": "midsaggital_articulations/consonants/svg/r_retroflex.svg",
+          "bytes": 15193,
+          "sha256": "5c7c74886b83b994f6f9e1256c1de0ff91350f64e8948be264fd233899b80121"
+        },
+        "isolatedSoundAudio": {
+          "status": "MISSING",
+          "path": "/assets/sounds/vowel-er.mp3",
+          "source": null,
+          "license": null,
+          "note": "No isolated-sound recording has been sourced or licence-verified. GoWord TTS must not be used for it."
+        },
+        "implemented": true
+      }
+    ]
+  }
+}

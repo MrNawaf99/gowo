@@ -1,0 +1,232 @@
+{
+  "lessonId": "present_continuous",
+  "title": "Present Continuous",
+  "titleAr": "المضارع المستمر",
+  "questions": [
+    {
+      "id": "PC_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ English now.",
+      "options": ["am study", "am studying", "is studying", "are studying"],
+      "correctAnswer": "am studying",
+      "explanation": "For actions happening now with 'I', we use 'am' + V-ing.",
+      "explanationAr": "للأفعال التي تحدث الآن مع 'I'، نستخدم 'am' + الفعل-ing."
+    },
+    {
+      "id": "PC_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ with her aunt this month.",
+      "options": ["is live", "lives", "is living", "are living"],
+      "correctAnswer": "is living",
+      "explanation": "For temporary situations, we use Present Continuous. 'She' takes 'is' + V-ing (living).",
+      "explanationAr": "للحالات المؤقتة، نستخدم المضارع المستمر. 'She' تأخذ 'is' + الفعل-ing (living)."
+    },
+    {
+      "id": "PC_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ football.",
+      "options": ["is playing", "am playing", "are playing", "play"],
+      "correctAnswer": "are playing",
+      "explanation": "With 'They', we use 'are' + V-ing.",
+      "explanationAr": "مع 'They'، نستخدم 'are' + الفعل-ing."
+    },
+    {
+      "id": "PC_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He _____ TV.",
+      "options": ["are watching", "is watching", "am watching", "watches"],
+      "correctAnswer": "is watching",
+      "explanation": "With 'He', we use 'is' + V-ing.",
+      "explanationAr": "مع 'He'، نستخدم 'is' + الفعل-ing."
+    },
+    {
+      "id": "PC_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How do you add -ing to the verb 'make'?",
+      "options": ["makeing", "making", "makking", "makes"],
+      "correctAnswer": "making",
+      "explanation": "For verbs ending in -e, remove the -e and add -ing.",
+      "explanationAr": "للأفعال التي تنتهي بـ -e، احذف الـ -e وأضف -ing."
+    },
+    {
+      "id": "PC_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How do you add -ing to the verb 'run'?",
+      "options": ["runing", "running", "runies", "runes"],
+      "correctAnswer": "running",
+      "explanation": "For verbs ending in a short vowel + consonant, double the last consonant and add -ing.",
+      "explanationAr": "للأفعال التي تنتهي بحرف متحرك قصير + حرف ساكن، ضاعف الحرف الساكن الأخير وأضف -ing."
+    },
+    {
+      "id": "PC_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How do you add -ing to the verb 'lie'?",
+      "options": ["lieing", "lying", "liing", "lyeing"],
+      "correctAnswer": "lying",
+      "explanation": "For verbs ending in -ie, change -ie to -y and add -ing.",
+      "explanationAr": "للأفعال التي تنتهي بـ -ie، غيّر -ie إلى -y وأضف -ing."
+    },
+    {
+      "id": "PC_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ not watching TV.",
+      "options": ["are", "is", "am", "do"],
+      "correctAnswer": "am",
+      "explanation": "The negative form for 'I' is 'am not' + V-ing.",
+      "explanationAr": "صيغة النفي لـ 'I' هي 'am not' + الفعل-ing."
+    },
+    {
+      "id": "PC_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ reading a book.",
+      "options": ["isn't", "aren't", "am not", "doesn't"],
+      "correctAnswer": "isn't",
+      "explanation": "The negative form for 'She' is 'is not' or 'isn't' + V-ing.",
+      "explanationAr": "صيغة النفي لـ 'She' هي 'is not' أو 'isn't' + الفعل-ing."
+    },
+    {
+      "id": "PC_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ playing tennis.",
+      "options": ["isn't", "aren't", "am not", "don't"],
+      "correctAnswer": "aren't",
+      "explanation": "The negative form for 'They' is 'are not' or 'aren't' + V-ing.",
+      "explanationAr": "صيغة النفي لـ 'They' هي 'are not' أو 'aren't' + الفعل-ing."
+    },
+    {
+      "id": "PC_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ I speaking clearly?",
+      "options": ["Am", "Is", "Are", "Do"],
+      "correctAnswer": "Am",
+      "explanation": "Questions with 'I' in Present Continuous start with 'Am'.",
+      "explanationAr": "الأسئلة مع 'I' في المضارع المستمر تبدأ بـ 'Am'."
+    },
+    {
+      "id": "PC_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she working today?",
+      "options": ["Am", "Is", "Are", "Does"],
+      "correctAnswer": "Is",
+      "explanation": "Questions with 'she' in Present Continuous start with 'Is'.",
+      "explanationAr": "الأسئلة مع 'she' في المضارع المستمر تبدأ بـ 'Is'."
+    },
+    {
+      "id": "PC_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ they coming to the party?",
+      "options": ["Is", "Am", "Are", "Do"],
+      "correctAnswer": "Are",
+      "explanation": "Questions with 'they' in Present Continuous start with 'Are'.",
+      "explanationAr": "الأسئلة مع 'they' في المضارع المستمر تبدأ بـ 'Are'."
+    },
+    {
+      "id": "PC_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What _____ you doing?",
+      "options": ["is", "am", "are", "do"],
+      "correctAnswer": "are",
+      "explanation": "For Wh- questions with 'you', we use 'are' (What are you doing?).",
+      "explanationAr": "لأسئلة Wh- مع 'you'، نستخدم 'are' (What are you doing?)."
+    },
+    {
+      "id": "PC_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Are they coming? Yes, they _____.",
+      "options": ["is", "am", "are", "do"],
+      "correctAnswer": "are",
+      "explanation": "The short answer matching 'Are they' is 'Yes, they are'.",
+      "explanationAr": "الإجابة القصيرة المطابقة لـ 'Are they' هي 'Yes, they are'."
+    },
+    {
+      "id": "PC_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Is he working? No, he _____.",
+      "options": ["isn't", "aren't", "doesn't", "am not"],
+      "correctAnswer": "isn't",
+      "explanation": "The negative short answer for 'he' is 'No, he isn't'.",
+      "explanationAr": "الإجابة القصيرة المنفية لـ 'he' هي 'No, he isn't'."
+    },
+    {
+      "id": "PC_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I am eating _____.",
+      "options": ["every day", "always", "now", "sometimes"],
+      "correctAnswer": "now",
+      "explanation": "'now' is a signal word for Present Continuous.",
+      "explanationAr": "'now' هي كلمة دالة على المضارع المستمر."
+    },
+    {
+      "id": "PC_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She is studying _____.",
+      "options": ["at the moment", "usually", "often", "never"],
+      "correctAnswer": "at the moment",
+      "explanation": "'at the moment' is a signal phrase for Present Continuous.",
+      "explanationAr": "'at the moment' هي عبارة دالة على المضارع المستمر."
+    },
+    {
+      "id": "PC_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They are playing _____.",
+      "options": ["every week", "right now", "sometimes", "in the morning"],
+      "correctAnswer": "right now",
+      "explanation": "'right now' is a signal phrase for Present Continuous.",
+      "explanationAr": "'right now' هي عبارة دالة على المضارع المستمر."
+    },
+    {
+      "id": "PC_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How do you add -ing to the verb 'write'?",
+      "options": ["writeing", "writing", "writting", "writes"],
+      "correctAnswer": "writing",
+      "explanation": "For verbs ending in -e (write), remove the -e and add -ing.",
+      "explanationAr": "للأفعال التي تنتهي بـ -e (write)، احذف الـ -e وأضف -ing."
+    },
+    {
+      "id": "PC_021",
+      "type": "TRUE_FALSE",
+      "text": "'I do my homework now.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. With 'now', we use Present Continuous: 'I am doing my homework now.'",
+      "explanationAr": "هذا غير صحيح. مع 'now'، نستخدم المضارع المستمر: 'I am doing my homework now.'"
+    },
+    {
+      "id": "PC_022",
+      "type": "TRUE_FALSE",
+      "text": "'They plays football.' is a correct sentence for actions happening now.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. It should be 'They are playing football.' if happening now.",
+      "explanationAr": "هذا غير صحيح. يجب أن تكون 'They are playing football.' إذا كانت تحدث الآن."
+    },
+    {
+      "id": "PC_023",
+      "type": "TRUE_FALSE",
+      "text": "'He is not go to school.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The verb must have -ing: 'He isn't going to school.'",
+      "explanationAr": "هذا غير صحيح. يجب أن يحتوي الفعل على -ing: 'He isn't going to school.'"
+    },
+    {
+      "id": "PC_024",
+      "type": "TRUE_FALSE",
+      "text": "'Are he watching TV?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. With 'he', we must use 'Is': 'Is he watching TV?'",
+      "explanationAr": "هذا غير صحيح. مع 'he'، يجب أن نستخدم 'Is': 'Is he watching TV؟'"
+    },
+    {
+      "id": "PC_025",
+      "type": "TRUE_FALSE",
+      "text": "'Yes, I am.' is the correct short answer to 'Am I speaking clearly?'.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. We use 'am' for 'I' in short answers.",
+      "explanationAr": "هذا صحيح. نستخدم 'am' مع 'I' في الإجابات القصيرة."
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "lessonId": "future_perfect_continuous",
+  "title": "Future Perfect Continuous",
+  "titleAr": "المستقبل التام المستمر",
+  "questions": [
+    {
+      "id": "FPC_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By 2030, I _____ studying English for 5 years.",
+      "options": [
+        "will have been",
+        "will be",
+        "have been",
+        "will have"
+      ],
+      "correctAnswer": "will have been",
+      "explanation": "To talk about an ongoing action until a point in the future, we use Future Perfect Continuous: will have been + V-ing.",
+      "explanationAr": "للتحدث عن إجراء مستمر حتى نقطة في المستقبل، نستخدم المستقبل التام المستمر: will have been + V-ing."
+    },
+    {
+      "id": "FPC_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By next June, they _____ working here for 10 years.",
+      "options": [
+        "will have been",
+        "will be",
+        "have been",
+        "had been"
+      ],
+      "correctAnswer": "will have been",
+      "explanation": "We use Future Perfect Continuous to emphasize duration up to a future time.",
+      "explanationAr": "نستخدم المستقبل التام المستمر للتأكيد على المدة حتى وقت في المستقبل."
+    },
+    {
+      "id": "FPC_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By December, she _____ living in Dubai for 3 years.",
+      "options": [
+        "will have been",
+        "will be",
+        "will has been",
+        "is"
+      ],
+      "correctAnswer": "will have been",
+      "explanation": "With 'she', we still use 'will have been'. Never use 'will has been'.",
+      "explanationAr": "مع 'she'، لا نزال نستخدم 'will have been'. لا تستخدم أبدًا 'will has been'."
+    },
+    {
+      "id": "FPC_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ working here for long by next month.",
+      "options": [
+        "will not have been",
+        "am not",
+        "won't has been",
+        "don't have been"
+      ],
+      "correctAnswer": "will not have been",
+      "explanation": "The negative form is 'will not have been' or 'won't have been' + V-ing.",
+      "explanationAr": "الصيغة المنفية هي 'will not have been' أو 'won't have been' + V-ing."
+    },
+    {
+      "id": "FPC_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ waiting for more than an hour by 5 p.m.",
+      "options": [
+        "won't have been",
+        "won't be",
+        "aren't",
+        "haven't been"
+      ],
+      "correctAnswer": "won't have been",
+      "explanation": "The negative form is 'won't have been' + V-ing.",
+      "explanationAr": "الصيغة المنفية هي 'won't have been' + V-ing."
+    },
+    {
+      "id": "FPC_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ studying all day by the time you call.",
+      "options": [
+        "will not have been",
+        "isn't",
+        "won't be",
+        "hasn't been"
+      ],
+      "correctAnswer": "will not have been",
+      "explanation": "The negative form is 'will not have been' + V-ing.",
+      "explanationAr": "الصيغة المنفية هي 'will not have been' + V-ing."
+    },
+    {
+      "id": "FPC_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you have been studying for 3 hours by 10 p.m.?",
+      "options": [
+        "Will",
+        "Are",
+        "Do",
+        "Have"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Questions in the Future Perfect Continuous start with 'Will'.",
+      "explanationAr": "تبدأ الأسئلة في المستقبل التام المستمر بـ 'Will'."
+    },
+    {
+      "id": "FPC_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ they have been working here for 8 years by 2030?",
+      "options": [
+        "Will",
+        "Are",
+        "Do",
+        "Have"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Questions start with 'Will'.",
+      "explanationAr": "تبدأ الأسئلة بـ 'Will'."
+    },
+    {
+      "id": "FPC_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she have been living in London for long by then?",
+      "options": [
+        "Will",
+        "Is",
+        "Does",
+        "Has"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Questions start with 'Will'.",
+      "explanationAr": "تبدأ الأسئلة بـ 'Will'."
+    },
+    {
+      "id": "FPC_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will you have been studying? Yes, I _____.",
+      "options": [
+        "will",
+        "will have",
+        "have",
+        "am"
+      ],
+      "correctAnswer": "will",
+      "explanation": "The short affirmative answer is 'Yes, I will'.",
+      "explanationAr": "الإجابة القصيرة المثبتة هي 'Yes, I will'."
+    },
+    {
+      "id": "FPC_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will they have been working? No, they _____.",
+      "options": [
+        "won't",
+        "won't have",
+        "haven't",
+        "aren't"
+      ],
+      "correctAnswer": "won't",
+      "explanation": "The short negative answer is 'No, they won't'.",
+      "explanationAr": "الإجابة القصيرة المنفية هي 'No, they won't'."
+    },
+    {
+      "id": "FPC_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What does the Future Perfect Continuous emphasize?",
+      "options": [
+        "Duration of an action up to a future time",
+        "A completed action in the past",
+        "A spontaneous decision",
+        "A fact"
+      ],
+      "correctAnswer": "Duration of an action up to a future time",
+      "explanation": "It emphasizes how long an action will continue up to a future time.",
+      "explanationAr": "إنه يؤكد على المدة التي سيستمر فيها الإجراء حتى وقت في المستقبل."
+    },
+    {
+      "id": "FPC_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the structure of the Future Perfect Continuous?",
+      "options": [
+        "will have been + V-ing",
+        "will be + V-ing",
+        "will have + V3",
+        "am going to + V1"
+      ],
+      "correctAnswer": "will have been + V-ing",
+      "explanation": "The structure is 'will have been' followed by a verb ending in -ing.",
+      "explanationAr": "التركيبة هي 'will have been' متبوعة بفعل ينتهي بـ -ing."
+    },
+    {
+      "id": "FPC_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By next year, I will have been _____ for 15 years.",
+      "options": [
+        "teaching",
+        "teach",
+        "taught",
+        "teaches"
+      ],
+      "correctAnswer": "teaching",
+      "explanation": "After 'will have been', we use the V-ing form.",
+      "explanationAr": "بعد 'will have been'، نستخدم صيغة V-ing."
+    },
+    {
+      "id": "FPC_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By 2028, they will have been _____ around the world for 3 years.",
+      "options": [
+        "traveling",
+        "travel",
+        "traveled",
+        "travels"
+      ],
+      "correctAnswer": "traveling",
+      "explanation": "After 'will have been', we use the V-ing form.",
+      "explanationAr": "بعد 'will have been'، نستخدم صيغة V-ing."
+    },
+    {
+      "id": "FPC_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which of these pairs of signal words is common in Future Perfect Continuous?",
+      "options": [
+        "for / by",
+        "yesterday / ago",
+        "now / at the moment",
+        "already / yet"
+      ],
+      "correctAnswer": "for / by",
+      "explanation": "We often use 'for' (to show duration) and 'by' (to show the future point).",
+      "explanationAr": "غالبًا ما نستخدم 'for' (لإظهار المدة) و 'by' (لإظهار نقطة المستقبل)."
+    },
+    {
+      "id": "FPC_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She will have been _____ piano for 4 years by next month.",
+      "options": [
+        "practicing",
+        "practice",
+        "practiced",
+        "practices"
+      ],
+      "correctAnswer": "practicing",
+      "explanation": "After 'will have been', we use the V-ing form.",
+      "explanationAr": "بعد 'will have been'، نستخدم صيغة V-ing."
+    },
+    {
+      "id": "FPC_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They won't have _____ waiting long.",
+      "options": [
+        "been",
+        "be",
+        "being",
+        "was"
+      ],
+      "correctAnswer": "been",
+      "explanation": "The structure is won't + have + been + V-ing.",
+      "explanationAr": "التركيبة هي won't + have + been + V-ing."
+    },
+    {
+      "id": "FPC_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will she have _____ working?",
+      "options": [
+        "been",
+        "be",
+        "being",
+        "is"
+      ],
+      "correctAnswer": "been",
+      "explanation": "The structure is Will + Subject + have + been + V-ing.",
+      "explanationAr": "التركيبة هي Will + الفاعل + have + been + V-ing."
+    },
+    {
+      "id": "FPC_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I will have been working on this project _____ 6 months by July.",
+      "options": [
+        "for",
+        "since",
+        "by",
+        "in"
+      ],
+      "correctAnswer": "for",
+      "explanation": "Use 'for' to express the duration of 6 months.",
+      "explanationAr": "استخدم 'for' للتعبير عن مدة 6 أشهر."
+    },
+    {
+      "id": "FPC_021",
+      "type": "TRUE_FALSE",
+      "text": "'I will be studying for 5 years by 2030.' is the best way to emphasize duration.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Future Continuous just says it will be happening. To emphasize the duration up to 2030, use Future Perfect Continuous: 'I will have been studying...'",
+      "explanationAr": "المستقبل المستمر يقول فقط أنه سيحدث. للتأكيد على المدة حتى عام 2030، استخدم المستقبل التام المستمر: 'I will have been studying...'"
+    },
+    {
+      "id": "FPC_022",
+      "type": "TRUE_FALSE",
+      "text": "'They will have studied here for 8 years by 2030.' is preferred over 'They will have been studying...'",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "While grammatically possible, 'will have been studying' is heavily preferred to emphasize the continuous duration of an action.",
+      "explanationAr": "على الرغم من أنه ممكن نحويًا، إلا أنه يُفضل بشدة استخدام 'will have been studying' للتأكيد على المدة المستمرة للإجراء."
+    },
+    {
+      "id": "FPC_023",
+      "type": "TRUE_FALSE",
+      "text": "'Will you be working here for long by next year?' is the correct question to emphasize duration.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. To emphasize duration by a future time, use: 'Will you have been working here for long by next year?'",
+      "explanationAr": "إنه غير صحيح. للتأكيد على المدة بحلول وقت في المستقبل، استخدم: 'Will you have been working here for long by next year?'"
+    },
+    {
+      "id": "FPC_024",
+      "type": "TRUE_FALSE",
+      "text": "The Future Perfect Continuous focuses on how long an action will continue up to a future time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is true. This is the primary usage of this tense.",
+      "explanationAr": "إنه صحيح. هذا هو الاستخدام الأساسي لهذا الزمن."
+    },
+    {
+      "id": "FPC_025",
+      "type": "TRUE_FALSE",
+      "text": "'By next month, I will have been teaching for 15 years.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is correct. It uses 'by' for the future point and 'for' to show duration, with 'will have been teaching'.",
+      "explanationAr": "إنه صحيح. يستخدم 'by' للنقطة المستقبلية و 'for' لإظهار المدة، مع 'will have been teaching'."
+    }
+  ]
+}

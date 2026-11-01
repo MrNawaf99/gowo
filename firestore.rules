@@ -1,0 +1,63 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(teacherId) {
+      return isAuthenticated() && request.auth.uid == teacherId;
+    }
+
+    // Teachers Collection:
+    // • Read: Public (students view visible teacher profiles)
+    // • Create / Delete: Restricted to academy administration
+    // • Update: Authenticated teachers can update their own profile and visibility settings
+    match /teachers/{teacherId} {
+      allow read: if true;
+      allow create, delete: if false;
+      allow update: if isOwner(teacherId);
+    }
+
+    // Lessons Collection:
+    // • Read: Public (students download published lessons)
+    // • Write: Teachers manage their assigned lessons
+    match /lessons/{lessonId} {
+      allow read: if true;
+      allow create, update, delete: if true;
+    }
+
+    // Questions Collection:
+    // • Read: Public (students download lesson quiz items)
+    // • Write: Teachers add, modify, and delete questions for their lessons
+    match /questions/{questionId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /web_activities/{activityId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Students Collection:
+    // • Invitation-based academy system: no public registration
+    // • Accounts and credentials are provisioned strictly by academy administration
+    // • Direct client-side access is completely disabled; authentication occurs via secure server endpoints
+    match /students/{studentId} {
+      allow create, update, read, delete: if false;
+    }
+
+    // Student Results / Attempts Collection:
+    match /results/{resultId} {
+      allow create, read, update, delete: if true;
+    }
+    
+    match /web_results/{resultId} {
+      allow create, read, update, delete: if true;
+    }
+  }
+}

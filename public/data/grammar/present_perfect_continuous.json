@@ -1,0 +1,347 @@
+{
+  "lessonId": "present_perfect_continuous",
+  "title": "Present Perfect Continuous",
+  "titleAr": "المضارع التام المستمر",
+  "questions": [
+    {
+      "id": "PPC_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ studying English for 2 hours.",
+      "options": [
+        "have studied",
+        "have been studying",
+        "am studying",
+        "was studying"
+      ],
+      "correctAnswer": "have been studying",
+      "explanation": "To emphasize duration of an action starting in the past and continuing now, use Present Perfect Continuous: have/has been + V-ing.",
+      "explanationAr": "للتأكيد على مدة فعل بدأ في الماضي ومستمر حتى الآن، استخدم المضارع التام المستمر: have/has been + V-ing."
+    },
+    {
+      "id": "PPC_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ living in Riyadh since 2020.",
+      "options": [
+        "has been",
+        "have been",
+        "are",
+        "were"
+      ],
+      "correctAnswer": "have been",
+      "explanation": "With 'They', we use 'have been' + V-ing.",
+      "explanationAr": "مع 'They'، نستخدم 'have been' + V-ing."
+    },
+    {
+      "id": "PPC_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ working here all day.",
+      "options": [
+        "have been",
+        "has been",
+        "is",
+        "was"
+      ],
+      "correctAnswer": "has been",
+      "explanation": "With 'She', we use 'has been' + V-ing.",
+      "explanationAr": "مع 'She'، نستخدم 'has been' + V-ing."
+    },
+    {
+      "id": "PPC_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ watching TV.",
+      "options": [
+        "haven't been",
+        "hasn't been",
+        "am not",
+        "don't have"
+      ],
+      "correctAnswer": "haven't been",
+      "explanation": "The negative form for 'I' is 'have not been' or 'haven't been'.",
+      "explanationAr": "الصيغة المنفية لـ 'I' هي 'have not been' أو 'haven't been'."
+    },
+    {
+      "id": "PPC_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ feeling well.",
+      "options": [
+        "haven't been",
+        "hasn't been",
+        "isn't",
+        "wasn't"
+      ],
+      "correctAnswer": "hasn't been",
+      "explanation": "The negative form for 'She' is 'has not been' or 'hasn't been'.",
+      "explanationAr": "الصيغة المنفية لـ 'She' هي 'has not been' أو 'hasn't been'."
+    },
+    {
+      "id": "PPC_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you been studying?",
+      "options": [
+        "Has",
+        "Have",
+        "Are",
+        "Do"
+      ],
+      "correctAnswer": "Have",
+      "explanation": "Questions with 'you' start with 'Have'.",
+      "explanationAr": "الأسئلة مع 'you' تبدأ بـ 'Have'."
+    },
+    {
+      "id": "PPC_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she been working hard?",
+      "options": [
+        "Have",
+        "Has",
+        "Is",
+        "Does"
+      ],
+      "correctAnswer": "Has",
+      "explanation": "Questions with 'she' start with 'Has'.",
+      "explanationAr": "الأسئلة مع 'she' تبدأ بـ 'Has'."
+    },
+    {
+      "id": "PPC_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Have you been studying? Yes, I _____.",
+      "options": [
+        "has",
+        "have",
+        "do",
+        "am"
+      ],
+      "correctAnswer": "have",
+      "explanation": "The short affirmative answer is 'Yes, I have'.",
+      "explanationAr": "الإجابة القصيرة المثبتة هي 'Yes, I have'."
+    },
+    {
+      "id": "PPC_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Has she been working? No, she _____.",
+      "options": [
+        "haven't",
+        "hasn't",
+        "isn't",
+        "doesn't"
+      ],
+      "correctAnswer": "hasn't",
+      "explanation": "The short negative answer is 'No, she hasn't'.",
+      "explanationAr": "الإجابة القصيرة المنفية هي 'No, she hasn't'."
+    },
+    {
+      "id": "PPC_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We often use 'since' with a _____.",
+      "options": [
+        "period of time",
+        "point in time",
+        "duration",
+        "future event"
+      ],
+      "correctAnswer": "point in time",
+      "explanation": "'since' is used with a specific point in time (e.g., since 9 a.m.).",
+      "explanationAr": "تُستخدم 'since' مع نقطة زمنية محددة (مثل، since 9 a.m.)."
+    },
+    {
+      "id": "PPC_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We often use 'for' with a _____.",
+      "options": [
+        "point in time",
+        "period of time",
+        "specific date",
+        "past event"
+      ],
+      "correctAnswer": "period of time",
+      "explanation": "'for' is used to express the duration or period of time (e.g., for 3 hours).",
+      "explanationAr": "تُستخدم 'for' للتعبير عن المدة أو الفترة الزمنية (مثل، for 3 hours)."
+    },
+    {
+      "id": "PPC_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I have been working _____ 9 a.m.",
+      "options": [
+        "for",
+        "since",
+        "all",
+        "lately"
+      ],
+      "correctAnswer": "since",
+      "explanation": "'9 a.m.' is a point in time, so we use 'since'.",
+      "explanationAr": "'9 a.m.' هي نقطة زمنية، لذلك نستخدم 'since'."
+    },
+    {
+      "id": "PPC_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They have been playing _____ 3 hours.",
+      "options": [
+        "since",
+        "for",
+        "all",
+        "recently"
+      ],
+      "correctAnswer": "for",
+      "explanation": "'3 hours' is a period of time, so we use 'for'.",
+      "explanationAr": "'3 hours' هي فترة زمنية، لذلك نستخدم 'for'."
+    },
+    {
+      "id": "PPC_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How _____ have you been waiting?",
+      "options": [
+        "much",
+        "long",
+        "many",
+        "time"
+      ],
+      "correctAnswer": "long",
+      "explanation": "'How long' is used to ask about duration.",
+      "explanationAr": "تُستخدم 'How long' للسؤال عن المدة."
+    },
+    {
+      "id": "PPC_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I've been working _____ day.",
+      "options": [
+        "all",
+        "since",
+        "for",
+        "lately"
+      ],
+      "correctAnswer": "all",
+      "explanation": "'all day' is a common signal phrase for the Present Perfect Continuous.",
+      "explanationAr": "'all day' هي عبارة إشارة شائعة للمضارع التام المستمر."
+    },
+    {
+      "id": "PPC_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I've been very busy _____.",
+      "options": [
+        "lately",
+        "for",
+        "since",
+        "all day"
+      ],
+      "correctAnswer": "lately",
+      "explanation": "'lately' (or 'recently') is a signal word for the Present Perfect Continuous.",
+      "explanationAr": "'lately' (أو 'recently') هي كلمة إشارة للمضارع التام المستمر."
+    },
+    {
+      "id": "PPC_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ cooking since 8 a.m.",
+      "options": [
+        "has been",
+        "have been",
+        "is",
+        "was"
+      ],
+      "correctAnswer": "has been",
+      "explanation": "With 'She', use 'has been' + V-ing.",
+      "explanationAr": "مع 'She'، استخدم 'has been' + V-ing."
+    },
+    {
+      "id": "PPC_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which tense emphasizes the duration of an action?",
+      "options": [
+        "Present Simple",
+        "Present Continuous",
+        "Present Perfect",
+        "Present Perfect Continuous"
+      ],
+      "correctAnswer": "Present Perfect Continuous",
+      "explanation": "The Present Perfect Continuous often emphasizes the duration of the action.",
+      "explanationAr": "غالبًا ما يؤكد المضارع التام المستمر على مدة الفعل."
+    },
+    {
+      "id": "PPC_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Have you been waiting? No, I _____.",
+      "options": [
+        "hasn't",
+        "haven't",
+        "am not",
+        "don't"
+      ],
+      "correctAnswer": "haven't",
+      "explanation": "Short negative answer for 'I' is 'haven't'.",
+      "explanationAr": "الإجابة القصيرة المنفية لـ 'I' هي 'haven't'."
+    },
+    {
+      "id": "PPC_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I have been reading a book _____ Monday.",
+      "options": [
+        "for",
+        "since",
+        "on",
+        "in"
+      ],
+      "correctAnswer": "since",
+      "explanation": "'Monday' is a point in time, so we use 'since'.",
+      "explanationAr": "'Monday' هي نقطة زمنية، لذلك نستخدم 'since'."
+    },
+    {
+      "id": "PPC_021",
+      "type": "TRUE_FALSE",
+      "text": "'I have worked here for 2 hours.' is better than 'I have been working here for 2 hours.' to emphasize duration.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "To emphasize duration, 'I have been working here for 2 hours.' (Continuous) is the correct choice.",
+      "explanationAr": "للتأكيد على المدة، الخيار الصحيح هو 'I have been working here for 2 hours.' (المستمر)."
+    },
+    {
+      "id": "PPC_022",
+      "type": "TRUE_FALSE",
+      "text": "'She has lived in Riyadh since 2020.' is incorrect to emphasize duration.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is true. To emphasize duration, you should say 'She has been living in Riyadh since 2020.'",
+      "explanationAr": "هذا صحيح. للتأكيد على المدة، يجب أن تقول 'She has been living in Riyadh since 2020.'"
+    },
+    {
+      "id": "PPC_023",
+      "type": "TRUE_FALSE",
+      "text": "'How long you have been waiting?' is grammatically correct.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect word order. The correct question form is 'How long have you been waiting?'",
+      "explanationAr": "ترتيب الكلمات غير صحيح. صيغة السؤال الصحيحة هي 'How long have you been waiting?'"
+    },
+    {
+      "id": "PPC_024",
+      "type": "TRUE_FALSE",
+      "text": "'I have been here since 8 a.m.' is grammatically correct.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is correct. For state verbs like 'be', we use the simple Present Perfect (have been), not continuous.",
+      "explanationAr": "هذا صحيح. لأفعال الحالة مثل 'be'، نستخدم المضارع التام البسيط (have been)، وليس المستمر."
+    },
+    {
+      "id": "PPC_025",
+      "type": "TRUE_FALSE",
+      "text": "'They have been studying for two hours.' uses 'for' correctly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is correct. 'two hours' is a period of time, so 'for' is the correct preposition.",
+      "explanationAr": "هذا صحيح. 'two hours' هي فترة زمنية، لذلك 'for' هو حرف الجر الصحيح."
+    }
+  ]
+}

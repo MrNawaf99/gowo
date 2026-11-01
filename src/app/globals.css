@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@theme {
+  /* GLOBAL DARK THEME OVERRIDES */
+  /* White and Black remain standard for texts and strong contrasts */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-transparent: transparent;
+  
+  /* GRAY PALETTE INVERSION for Dark Theme natively */
+  --color-gray-50: #0B1120;     /* Background */
+  --color-gray-100: #111827;    /* Primary Surface (Cards) */
+  --color-gray-200: #172033;    /* Secondary Surface / Hover */
+  --color-gray-300: #1E293B;    /* Elevated / Input bg */
+  --color-gray-400: #263449;    /* Borders */
+  --color-gray-500: #94A3B8;    /* Muted text / Icons */
+  --color-gray-600: #CBD5E1;    /* Secondary text */
+  --color-gray-700: #E2E8F0;    /* Semi-bold text */
+  --color-gray-800: #F1F5F9;    /* Strong text */
+  --color-gray-900: #F8FAFC;    /* Main headers & text */
+
+  /* PRIMARY BLUE PALETTE */
+  --color-primary: #3B82F6;
+  --color-primary-container: #1E3A8A; /* Dark blue background for active states */
+  --color-on-primary-container: #DBEAFE;
+  
+  --color-blue-50: #172554;
+  --color-blue-100: #1E3A8A;
+  --color-blue-500: #3B82F6;
+  --color-blue-600: #2563EB;
+  --color-blue-700: #60A5FA;
+  
+  /* SUCCESS (GREEN) */
+  --color-green-50: #064E3B;
+  --color-green-100: #065F46;
+  --color-green-200: #047857;
+  --color-green-500: #22C55E;
+  --color-green-600: #4ADE80;
+  --color-green-700: #34D399;
+  --color-green-800: #10B981;
+
+  /* ERROR (RED) */
+  --color-red-50: #450A0A;
+  --color-red-100: #7F1D1D;
+  --color-red-200: #991B1B;
+  --color-red-500: #EF4444;
+  --color-red-600: #F87171;
+  --color-red-700: #FCA5A5;
+  --color-red-800: #FECACA;
+
+  /* WARNING (ORANGE / AMBER) */
+  --color-orange-50: #431407;
+  --color-orange-100: #7C2D12;
+  --color-orange-200: #9A3412;
+  --color-orange-500: #F97316;
+  --color-orange-600: #FB923C;
+  --color-orange-700: #FDBA74;
+
+  --color-amber-50: #451A03;
+  --color-amber-100: #78350F;
+  --color-amber-200: #92400E;
+  --color-amber-500: #F59E0B;
+  --color-amber-600: #FBBF24;
+  --color-amber-700: #FCD34D;
+
+  /* Custom generic variables */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: Tajawal, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+:root {
+  --background: #0B1120;
+  --foreground: #F8FAFC;
+}
+
+html, body {
+  background: var(--background);
+  color: var(--foreground);
+  /* font-family: var(--font-sans); */
+  color-scheme: dark;
+}
+
+/* Ensure inputs, textareas, and selects use dark background globally */
+input, textarea, select {
+  background-color: var(--color-gray-100);
+  color: var(--color-gray-900);
+  border-color: var(--color-gray-400);
+}
+input:disabled, textarea:disabled, select:disabled {
+  background-color: var(--color-gray-50);
+  color: var(--color-gray-500);
+  border-color: var(--color-gray-300);
+}
+
+/* Scrollbar styling for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1120;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}

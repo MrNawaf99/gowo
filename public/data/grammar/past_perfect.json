@@ -1,0 +1,232 @@
+{
+  "lessonId": "past_perfect",
+  "title": "Past Perfect",
+  "titleAr": "الماضي التام",
+  "questions": [
+    {
+      "id": "PPe_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ finished my homework before my friend called.",
+      "options": ["have", "had", "was", "did"],
+      "correctAnswer": "had",
+      "explanation": "We use the Past Perfect (had + V3) for an action completed before another action in the past.",
+      "explanationAr": "نستخدم الماضي التام (had + V3) لحدث اكتمل قبل حدث آخر في الماضي."
+    },
+    {
+      "id": "PPe_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ visited Paris before she moved there.",
+      "options": ["had", "has", "have", "was"],
+      "correctAnswer": "had",
+      "explanation": "Past Perfect (had + V3) is used because the visit happened before she moved (another past action).",
+      "explanationAr": "يُستخدم الماضي التام (had + V3) لأن الزيارة حدثت قبل أن تنتقل (حدث ماضٍ آخر)."
+    },
+    {
+      "id": "PPe_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ left when I arrived.",
+      "options": ["had", "have", "were", "did"],
+      "correctAnswer": "had",
+      "explanation": "They left before I arrived, so we use 'had left'.",
+      "explanationAr": "لقد غادروا قبل أن أصل، لذلك نستخدم 'had left'."
+    },
+    {
+      "id": "PPe_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By 6 o'clock, she _____ arrived.",
+      "options": ["had", "has", "was", "did"],
+      "correctAnswer": "had",
+      "explanation": "With 'by' a time in the past (By 6 o'clock), we use Past Perfect to show it was completed before then.",
+      "explanationAr": "مع 'by' متبوعة بوقت في الماضي (بحلول الساعة 6)، نستخدم الماضي التام لنبين أن الحدث قد اكتمل قبل ذلك الوقت."
+    },
+    {
+      "id": "PPe_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ seen that movie before.",
+      "options": ["had not", "have not", "did not", "was not"],
+      "correctAnswer": "had not",
+      "explanation": "The negative form of Past Perfect is 'had not' (hadn't) + V3.",
+      "explanationAr": "صيغة النفي في الماضي التام هي 'had not' (hadn't) + التصريف الثالث (V3)."
+    },
+    {
+      "id": "PPe_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ finished her work.",
+      "options": ["hadn't", "hasn't", "didn't", "wasn't"],
+      "correctAnswer": "hadn't",
+      "explanation": "In Past Perfect, the negative is 'had not' or 'hadn't' + V3.",
+      "explanationAr": "في الماضي التام، النفي يكون 'had not' أو 'hadn't' + التصريف الثالث (V3)."
+    },
+    {
+      "id": "PPe_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you finished your homework?",
+      "options": ["Had", "Have", "Did", "Were"],
+      "correctAnswer": "Had",
+      "explanation": "Questions in the Past Perfect start with 'Had' + Subject + V3.",
+      "explanationAr": "تبدأ الأسئلة في الماضي التام بـ 'Had' + الفاعل + التصريف الثالث (V3)."
+    },
+    {
+      "id": "PPe_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she visited London before?",
+      "options": ["Had", "Has", "Did", "Was"],
+      "correctAnswer": "Had",
+      "explanation": "Questions in the Past Perfect start with 'Had'.",
+      "explanationAr": "تبدأ الأسئلة في الماضي التام بـ 'Had'."
+    },
+    {
+      "id": "PPe_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ they left when you called?",
+      "options": ["Had", "Did", "Were", "Have"],
+      "correctAnswer": "Had",
+      "explanation": "Questions in the Past Perfect start with 'Had'.",
+      "explanationAr": "تبدأ الأسئلة في الماضي التام بـ 'Had'."
+    },
+    {
+      "id": "PPe_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Had you finished? Yes, I _____.",
+      "options": ["had", "have", "did", "was"],
+      "correctAnswer": "had",
+      "explanation": "The short affirmative answer is 'Yes, I had'.",
+      "explanationAr": "الإجابة القصيرة بالإثبات هي 'Yes, I had'."
+    },
+    {
+      "id": "PPe_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Had she left? No, she _____.",
+      "options": ["hadn't", "hasn't", "didn't", "wasn't"],
+      "correctAnswer": "hadn't",
+      "explanation": "The short negative answer is 'No, she hadn't'.",
+      "explanationAr": "الإجابة القصيرة بالنفي هي 'No, she hadn't'."
+    },
+    {
+      "id": "PPe_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We often use _____ to show one action happened before another in the past.",
+      "options": ["before", "now", "tomorrow", "since"],
+      "correctAnswer": "before",
+      "explanation": "Signal words like 'before', 'after', and 'by the time' show the order of past actions.",
+      "explanationAr": "توضح الكلمات الدالة مثل 'before' و 'after' و 'by the time' تسلسل الأحداث الماضية."
+    },
+    {
+      "id": "PPe_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I had left _____ he arrived.",
+      "options": ["before", "after", "since", "while"],
+      "correctAnswer": "before",
+      "explanation": "The first action (had left) happened 'before' the second action (arrived).",
+      "explanationAr": "الحدث الأول (had left) وقع 'قبل' الحدث الثاني (arrived)."
+    },
+    {
+      "id": "PPe_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She went to bed _____ she had eaten.",
+      "options": ["after", "before", "by", "while"],
+      "correctAnswer": "after",
+      "explanation": "She ate first (had eaten), so she went to bed 'after' she had eaten.",
+      "explanationAr": "هي أكلت أولاً (had eaten)، لذا ذهبت إلى الفراش 'بعد' أن أكلت."
+    },
+    {
+      "id": "PPe_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ the time I got home, they had left.",
+      "options": ["By", "In", "At", "On"],
+      "correctAnswer": "By",
+      "explanation": "'By the time' is a common phrase used with the Past Perfect.",
+      "explanationAr": "'By the time' هي عبارة شائعة تُستخدم مع الماضي التام."
+    },
+    {
+      "id": "PPe_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the structure of the Past Perfect?",
+      "options": ["had + V3", "has + V3", "was + V-ing", "did + V1"],
+      "correctAnswer": "had + V3",
+      "explanation": "The Past Perfect uses 'had' and the Past Participle (V3).",
+      "explanationAr": "الماضي التام يستخدم 'had' واسم المفعول (التصريف الثالث - V3)."
+    },
+    {
+      "id": "PPe_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Had they _____ ? Yes, they had.",
+      "options": ["left", "leave", "leaving", "leaves"],
+      "correctAnswer": "left",
+      "explanation": "Past Perfect requires the Past Participle (V3). The V3 of 'leave' is 'left'.",
+      "explanationAr": "يتطلب الماضي التام استخدام اسم المفعول (V3). التصريف الثالث من 'leave' هو 'left'."
+    },
+    {
+      "id": "PPe_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Had we _____ ? No, we hadn't.",
+      "options": ["finished", "finish", "finishing", "finishes"],
+      "correctAnswer": "finished",
+      "explanation": "Past Perfect requires the Past Participle (V3). The V3 of 'finish' is 'finished'.",
+      "explanationAr": "يتطلب الماضي التام استخدام اسم المفعول (V3). التصريف الثالث من 'finish' هو 'finished'."
+    },
+    {
+      "id": "PPe_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I had _____ my homework before I had dinner.",
+      "options": ["done", "did", "do", "doing"],
+      "correctAnswer": "done",
+      "explanation": "The V3 of 'do' is 'done'. The correct phrase is 'I had done'.",
+      "explanationAr": "التصريف الثالث من 'do' هو 'done'. العبارة الصحيحة هي 'I had done'."
+    },
+    {
+      "id": "PPe_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ left yesterday.",
+      "options": ["left", "had left", "have left", "were leaving"],
+      "correctAnswer": "left",
+      "explanation": "Without a second past action to compare to, we just use the Past Simple 'left' for 'yesterday', not Past Perfect.",
+      "explanationAr": "بدون وجود حدث ماضٍ ثانٍ للمقارنة به، نستخدم فقط الماضي البسيط 'left' مع 'yesterday'، وليس الماضي التام."
+    },
+    {
+      "id": "PPe_021",
+      "type": "TRUE_FALSE",
+      "text": "'I did my homework before I had dinner.' is the best way to say this.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It's better to use Past Perfect for the earlier action: 'I had done my homework before I had dinner.'",
+      "explanationAr": "من الأفضل استخدام الماضي التام للحدث الأسبق: 'I had done my homework before I had dinner.'"
+    },
+    {
+      "id": "PPe_022",
+      "type": "TRUE_FALSE",
+      "text": "'They had left yesterday.' is a correct sentence standing alone.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. If there's only one past time (yesterday) with no earlier action, use Past Simple: 'They left yesterday.'",
+      "explanationAr": "إنه غير صحيح. إذا كان هناك وقت ماضٍ واحد فقط (بالأمس) بدون حدث أسبق، استخدم الماضي البسيط: 'They left yesterday.'"
+    },
+    {
+      "id": "PPe_023",
+      "type": "TRUE_FALSE",
+      "text": "'Had you saw the movie?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use V3 (seen) with 'had': 'Had you seen the movie?'",
+      "explanationAr": "إنه غير صحيح. يجب استخدام التصريف الثالث (seen) مع 'had' لتصبح: 'Had you seen the movie?'"
+    },
+    {
+      "id": "PPe_024",
+      "type": "TRUE_FALSE",
+      "text": "'He had not finish yet.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use V3 (finished) with 'had': 'He had not finished yet.'",
+      "explanationAr": "إنه غير صحيح. يجب استخدام التصريف الثالث (finished) مع 'had' لتصبح: 'He had not finished yet.'"
+    },
+    {
+      "id": "PPe_025",
+      "type": "TRUE_FALSE",
+      "text": "'She had visited Paris before she moved there.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. The earlier action (visited) is in Past Perfect, and the later action (moved) is in Past Simple.",
+      "explanationAr": "إنه صحيح. الحدث الأسبق (visited) يكون في الماضي التام، والحدث اللاحق (moved) في الماضي البسيط."
+    }
+  ]
+}

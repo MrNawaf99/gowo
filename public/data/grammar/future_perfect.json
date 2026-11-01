@@ -1,0 +1,232 @@
+{
+  "lessonId": "future_perfect",
+  "title": "Future Perfect",
+  "titleAr": "المستقبل التام",
+  "questions": [
+    {
+      "id": "FPe_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By Friday, I _____ finished the project.",
+      "options": ["will have", "will", "have", "will be"],
+      "correctAnswer": "will have",
+      "explanation": "To talk about an action completed before a point in the future, use the Future Perfect (will have + V3).",
+      "explanationAr": "للتحدث عن فعل اكتمل قبل نقطة معينة في المستقبل، استخدم المستقبل التام (will have + V3)."
+    },
+    {
+      "id": "FPe_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By next year, they _____ graduated from university.",
+      "options": ["will have", "will", "have", "will be"],
+      "correctAnswer": "will have",
+      "explanation": "We use Future Perfect for actions that will be finished by a certain future time.",
+      "explanationAr": "نستخدم المستقبل التام للأفعال التي ستنتهي بحلول وقت معين في المستقبل."
+    },
+    {
+      "id": "FPe_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "In two months, she _____ saved enough money.",
+      "options": ["will have", "will", "has", "will has"],
+      "correctAnswer": "will have",
+      "explanation": "With 'she', we still use 'will have' + V3 in the Future Perfect. Do not use 'will has'.",
+      "explanationAr": "مع 'she'، لا نزال نستخدم 'will have' + V3 في المستقبل التام. لا تستخدم 'will has'."
+    },
+    {
+      "id": "FPe_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ finished the report by tomorrow.",
+      "options": ["will not have", "will not has", "am not", "won't has"],
+      "correctAnswer": "will not have",
+      "explanation": "The negative form is 'will not have' (won't have) + V3.",
+      "explanationAr": "صيغة النفي هي 'will not have' (أو won't have) + V3."
+    },
+    {
+      "id": "FPe_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ studied enough for the exam.",
+      "options": ["won't have", "won't has", "isn't have", "doesn't have"],
+      "correctAnswer": "won't have",
+      "explanation": "The negative form is 'won't have' + V3.",
+      "explanationAr": "صيغة النفي هي 'won't have' + V3."
+    },
+    {
+      "id": "FPe_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ arrived by 9 o'clock.",
+      "options": ["will not have", "will not has", "are not", "won't has"],
+      "correctAnswer": "will not have",
+      "explanation": "The negative form is 'will not have' + V3.",
+      "explanationAr": "صيغة النفي هي 'will not have' + V3."
+    },
+    {
+      "id": "FPe_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you have finished your work by 6 p.m.?",
+      "options": ["Will", "Are", "Do", "Have"],
+      "correctAnswer": "Will",
+      "explanation": "Questions in Future Perfect start with 'Will'.",
+      "explanationAr": "الأسئلة في المستقبل التام تبدأ بـ 'Will'."
+    },
+    {
+      "id": "FPe_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she have studied medicine by next year?",
+      "options": ["Will", "Does", "Has", "Is"],
+      "correctAnswer": "Will",
+      "explanation": "Questions start with 'Will'.",
+      "explanationAr": "الأسئلة تبدأ بـ 'Will'."
+    },
+    {
+      "id": "FPe_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will you have finished the task by Monday? Yes, I _____.",
+      "options": ["will", "will have", "do", "have"],
+      "correctAnswer": "will",
+      "explanation": "The short affirmative answer is 'Yes, I will'.",
+      "explanationAr": "الإجابة القصيرة المثبتة هي 'Yes, I will'."
+    },
+    {
+      "id": "FPe_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will they have arrived by evening? No, they _____.",
+      "options": ["won't", "won't have", "haven't", "aren't"],
+      "correctAnswer": "won't",
+      "explanation": "The short negative answer is 'No, they won't'.",
+      "explanationAr": "الإجابة القصيرة المنفية هي 'No, they won't'."
+    },
+    {
+      "id": "FPe_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which is a signal word often used with Future Perfect?",
+      "options": ["by", "since", "ago", "yesterday"],
+      "correctAnswer": "by",
+      "explanation": "'by' (e.g., by tomorrow, by 2030) is a very common signal word for Future Perfect.",
+      "explanationAr": "'by' (مثل by tomorrow, by 2030) هي كلمة إشارة شائعة جداً للمستقبل التام."
+    },
+    {
+      "id": "FPe_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ the time you arrive, I will have left.",
+      "options": ["By", "In", "On", "At"],
+      "correctAnswer": "By",
+      "explanation": "'By the time' is a signal phrase for the Future Perfect.",
+      "explanationAr": "'By the time' هي عبارة إشارة للمستقبل التام."
+    },
+    {
+      "id": "FPe_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She will have graduated _____ two years.",
+      "options": ["in", "by", "on", "since"],
+      "correctAnswer": "in",
+      "explanation": "We can say 'in two years' to mean two years from now.",
+      "explanationAr": "يمكننا قول 'in two years' لنقصد بعد عامين من الآن."
+    },
+    {
+      "id": "FPe_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We will have moved _____ next month.",
+      "options": ["by", "in", "on", "at"],
+      "correctAnswer": "by",
+      "explanation": "'by next month' indicates the action will be finished before that time.",
+      "explanationAr": "'by next month' تشير إلى أن الفعل سينتهي قبل ذلك الوقت."
+    },
+    {
+      "id": "FPe_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the structure of the Future Perfect?",
+      "options": ["will have + V3", "will + V1", "will be + V-ing", "will has + V3"],
+      "correctAnswer": "will have + V3",
+      "explanation": "The structure uses 'will have' + Past Participle (V3).",
+      "explanationAr": "تستخدم البنية 'will have' + التصريف الثالث (V3)."
+    },
+    {
+      "id": "FPe_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By 2030, we will have _____ a new house.",
+      "options": ["built", "build", "building", "builds"],
+      "correctAnswer": "built",
+      "explanation": "We need the V3 form of 'build', which is 'built'.",
+      "explanationAr": "نحتاج إلى صيغة V3 من 'build'، وهي 'built'."
+    },
+    {
+      "id": "FPe_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He won't have _____ the book by Friday.",
+      "options": ["read", "readed", "reading", "reads"],
+      "correctAnswer": "read",
+      "explanation": "We need the V3 form of 'read', which is spelled 'read' (but pronounced 'red').",
+      "explanationAr": "نحتاج إلى صيغة V3 من 'read'، والتي تُكتب 'read' (ولكن تُنطق 'red')."
+    },
+    {
+      "id": "FPe_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will they have _____ the letter?",
+      "options": ["written", "wrote", "write", "writing"],
+      "correctAnswer": "written",
+      "explanation": "We need the V3 form of 'write', which is 'written'.",
+      "explanationAr": "نحتاج إلى صيغة V3 من 'write'، وهي 'written'."
+    },
+    {
+      "id": "FPe_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She will have _____ English for 5 years.",
+      "options": ["studied", "study", "studying", "studies"],
+      "correctAnswer": "studied",
+      "explanation": "We need the V3 form of 'study', which is 'studied'.",
+      "explanationAr": "نحتاج إلى صيغة V3 من 'study'، وهي 'studied'."
+    },
+    {
+      "id": "FPe_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "By the end of the year, they will have _____ three countries.",
+      "options": ["visited", "visit", "visiting", "visits"],
+      "correctAnswer": "visited",
+      "explanation": "We need the V3 form of 'visit', which is 'visited'.",
+      "explanationAr": "نحتاج إلى صيغة V3 من 'visit'، وهي 'visited'."
+    },
+    {
+      "id": "FPe_021",
+      "type": "TRUE_FALSE",
+      "text": "'I will have finish my homework.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use the V3 form: 'I will have finished my homework.'",
+      "explanationAr": "هذا غير صحيح. يجب استخدام صيغة V3: 'I will have finished my homework.'"
+    },
+    {
+      "id": "FPe_022",
+      "type": "TRUE_FALSE",
+      "text": "'She will have went to the store.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. 'went' is V2. The V3 form is 'gone': 'She will have gone to the store.'",
+      "explanationAr": "هذا غير صحيح. 'went' هو V2. صيغة V3 هي 'gone': 'She will have gone to the store.'"
+    },
+    {
+      "id": "FPe_023",
+      "type": "TRUE_FALSE",
+      "text": "'Will you will have finished?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. Do not repeat 'will'. It should be 'Will you have finished?'",
+      "explanationAr": "هذا غير صحيح. لا تكرر 'will'. يجب أن تكون 'Will you have finished?'"
+    },
+    {
+      "id": "FPe_024",
+      "type": "TRUE_FALSE",
+      "text": "'They won't have finish in time.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use the V3 form: 'They won't have finished in time.'",
+      "explanationAr": "هذا غير صحيح. يجب استخدام صيغة V3: 'They won't have finished in time.'"
+    },
+    {
+      "id": "FPe_025",
+      "type": "TRUE_FALSE",
+      "text": "'I had finished yesterday.' is the correct way to talk about the past, instead of 'I will have finished yesterday.'",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is true. 'will have' is for the future. For the past, use Past Perfect or Past Simple.",
+      "explanationAr": "هذا صحيح. 'will have' للمستقبل. بالنسبة للماضي، استخدم الماضي التام أو الماضي البسيط."
+    }
+  ]
+}

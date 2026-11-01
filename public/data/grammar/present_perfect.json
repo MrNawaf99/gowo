@@ -1,0 +1,232 @@
+{
+  "lessonId": "present_perfect",
+  "title": "Present Perfect",
+  "titleAr": "المضارع التام",
+  "questions": [
+    {
+      "id": "PP_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ won the prize.",
+      "options": ["has", "have", "am", "do"],
+      "correctAnswer": "have",
+      "explanation": "With 'I', we use 'have' + Past Participle (V3) in the Present Perfect.",
+      "explanationAr": "مع 'I'، نستخدم 'have' + التصريف الثالث (V3) في المضارع التام."
+    },
+    {
+      "id": "PP_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ visited Paris.",
+      "options": ["have", "has", "is", "does"],
+      "correctAnswer": "has",
+      "explanation": "With 'She', we use 'has' + Past Participle (V3).",
+      "explanationAr": "مع 'She'، نستخدم 'has' + التصريف الثالث (V3)."
+    },
+    {
+      "id": "PP_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past participle (V3) of 'go'?",
+      "options": ["went", "gone", "goes", "going"],
+      "correctAnswer": "gone",
+      "explanation": "The forms of 'go' are: go (V1), went (V2), gone (V3).",
+      "explanationAr": "تصريفات 'go' هي: go (V1), went (V2), gone (V3)."
+    },
+    {
+      "id": "PP_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past participle (V3) of 'eat'?",
+      "options": ["ate", "eaten", "eats", "eating"],
+      "correctAnswer": "eaten",
+      "explanation": "The forms of 'eat' are: eat (V1), ate (V2), eaten (V3).",
+      "explanationAr": "تصريفات 'eat' هي: eat (V1), ate (V2), eaten (V3)."
+    },
+    {
+      "id": "PP_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past participle (V3) of 'see'?",
+      "options": ["saw", "seen", "sees", "seeing"],
+      "correctAnswer": "seen",
+      "explanation": "The forms of 'see' are: see (V1), saw (V2), seen (V3).",
+      "explanationAr": "تصريفات 'see' هي: see (V1), saw (V2), seen (V3)."
+    },
+    {
+      "id": "PP_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past participle (V3) of 'write'?",
+      "options": ["wrote", "written", "writes", "writing"],
+      "correctAnswer": "written",
+      "explanation": "The forms of 'write' are: write (V1), wrote (V2), written (V3).",
+      "explanationAr": "تصريفات 'write' هي: write (V1), wrote (V2), written (V3)."
+    },
+    {
+      "id": "PP_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past participle (V3) of 'take'?",
+      "options": ["took", "taken", "takes", "taking"],
+      "correctAnswer": "taken",
+      "explanation": "The forms of 'take' are: take (V1), took (V2), taken (V3).",
+      "explanationAr": "تصريفات 'take' هي: take (V1), took (V2), taken (V3)."
+    },
+    {
+      "id": "PP_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ not seen the movie.",
+      "options": ["has", "have", "am", "do"],
+      "correctAnswer": "have",
+      "explanation": "The negative form for 'I' is 'have not' (haven't).",
+      "explanationAr": "صيغة النفي لـ 'I' هي 'have not' (haven't)."
+    },
+    {
+      "id": "PP_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He _____ not done the work.",
+      "options": ["has", "have", "is", "does"],
+      "correctAnswer": "has",
+      "explanation": "The negative form for 'He' is 'has not' (hasn't).",
+      "explanationAr": "صيغة النفي لـ 'He' هي 'has not' (hasn't)."
+    },
+    {
+      "id": "PP_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you visited the museum?",
+      "options": ["Has", "Have", "Do", "Are"],
+      "correctAnswer": "Have",
+      "explanation": "Questions with 'you' start with 'Have'.",
+      "explanationAr": "الأسئلة مع 'you' تبدأ بـ 'Have'."
+    },
+    {
+      "id": "PP_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she finished her homework?",
+      "options": ["Have", "Has", "Does", "Is"],
+      "correctAnswer": "Has",
+      "explanation": "Questions with 'she' start with 'Has'.",
+      "explanationAr": "الأسئلة مع 'she' تبدأ بـ 'Has'."
+    },
+    {
+      "id": "PP_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Have you ever been to Dubai? Yes, I _____.",
+      "options": ["has", "have", "do", "am"],
+      "correctAnswer": "have",
+      "explanation": "The short affirmative answer is 'Yes, I have'.",
+      "explanationAr": "الإجابة القصيرة بالإيجاب هي 'Yes, I have'."
+    },
+    {
+      "id": "PP_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Has she seen that movie? No, she _____.",
+      "options": ["haven't", "hasn't", "isn't", "doesn't"],
+      "correctAnswer": "hasn't",
+      "explanation": "The short negative answer for 'she' is 'No, she hasn't'.",
+      "explanationAr": "الإجابة القصيرة بالنفي لـ 'she' هي 'No, she hasn't'."
+    },
+    {
+      "id": "PP_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which word is a signal word for the Present Perfect?",
+      "options": ["yesterday", "tomorrow", "already", "next week"],
+      "correctAnswer": "already",
+      "explanation": "Signal words include: just, already, yet, ever, never, since, for.",
+      "explanationAr": "الكلمات الدالة تشمل: just, already, yet, ever, never, since, for."
+    },
+    {
+      "id": "PP_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I have known him _____ 2010.",
+      "options": ["for", "since", "yet", "already"],
+      "correctAnswer": "since",
+      "explanation": "We use 'since' with a specific point in time (2010).",
+      "explanationAr": "نستخدم 'since' مع نقطة زمنية محددة (2010)."
+    },
+    {
+      "id": "PP_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She has lived here _____ five years.",
+      "options": ["since", "for", "already", "just"],
+      "correctAnswer": "for",
+      "explanation": "We use 'for' with a period or duration of time (five years).",
+      "explanationAr": "نستخدم 'for' مع فترة أو مدة زمنية (five years)."
+    },
+    {
+      "id": "PP_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I have _____ finished my homework.",
+      "options": ["yet", "ever", "just", "since"],
+      "correctAnswer": "just",
+      "explanation": "'just' means a very short time ago and is often used between have/has and V3.",
+      "explanationAr": "كلمة 'just' تعني قبل وقت قصير جداً وغالباً ما تستخدم بين have/has و V3."
+    },
+    {
+      "id": "PP_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Have you _____ been to London?",
+      "options": ["ever", "never", "yet", "just"],
+      "correctAnswer": "ever",
+      "explanation": "'ever' is used in questions to ask about life experiences.",
+      "explanationAr": "كلمة 'ever' تستخدم في الأسئلة للسؤال عن تجارب الحياة."
+    },
+    {
+      "id": "PP_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I haven't finished my project _____.",
+      "options": ["already", "just", "yet", "ever"],
+      "correctAnswer": "yet",
+      "explanation": "'yet' is used in negative sentences and questions, usually at the end.",
+      "explanationAr": "كلمة 'yet' تستخدم في الجمل المنفية والأسئلة، وعادة في النهاية."
+    },
+    {
+      "id": "PP_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He has _____ been to Spain; this is his first time.",
+      "options": ["ever", "never", "yet", "since"],
+      "correctAnswer": "never",
+      "explanation": "'never' means 'not at any time before' and is used in affirmative sentences.",
+      "explanationAr": "كلمة 'never' تعني 'ليس في أي وقت مضى' وتستخدم في الجمل المثبتة."
+    },
+    {
+      "id": "PP_021",
+      "type": "TRUE_FALSE",
+      "text": "'I seen the movie.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use 'have' with the past participle: 'I have seen the movie.'",
+      "explanationAr": "هذا غير صحيح. يجب استخدام 'have' مع التصريف الثالث: 'I have seen the movie.'"
+    },
+    {
+      "id": "PP_022",
+      "type": "TRUE_FALSE",
+      "text": "'She has went to school.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. 'went' is V2. The correct V3 is 'gone': 'She has gone to school.'",
+      "explanationAr": "هذا غير صحيح. 'went' هو V2. التصريف الثالث الصحيح هو 'gone': 'She has gone to school.'"
+    },
+    {
+      "id": "PP_023",
+      "type": "TRUE_FALSE",
+      "text": "'Have you saw him?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use V3 (seen) after have/has: 'Have you seen him?'",
+      "explanationAr": "هذا غير صحيح. يجب استخدام V3 (seen) بعد have/has: 'Have you seen him?'"
+    },
+    {
+      "id": "PP_024",
+      "type": "TRUE_FALSE",
+      "text": "'I have not saw it.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The correct negative form uses V3: 'I haven't seen it.'",
+      "explanationAr": "هذا غير صحيح. صيغة النفي الصحيحة تستخدم V3: 'I haven't seen it.'"
+    },
+    {
+      "id": "PP_025",
+      "type": "TRUE_FALSE",
+      "text": "'She has finished her work.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. It properly uses 'has' + V3 (finished).",
+      "explanationAr": "هذا صحيح. لقد استخدمت 'has' + V3 (finished) بشكل صحيح."
+    }
+  ]
+}

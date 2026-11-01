@@ -1,0 +1,347 @@
+{
+  "lessonId": "future_simple",
+  "title": "Future Simple",
+  "titleAr": "المستقبل البسيط",
+  "questions": [
+    {
+      "id": "FSi_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "It _____ rain tomorrow.",
+      "options": [
+        "will",
+        "is",
+        "going",
+        "would"
+      ],
+      "correctAnswer": "will",
+      "explanation": "We use 'will' for predictions about the future.",
+      "explanationAr": "نستخدم 'will' للتنبؤات حول المستقبل."
+    },
+    {
+      "id": "FSi_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ help you.",
+      "options": [
+        "will",
+        "am",
+        "do",
+        "did"
+      ],
+      "correctAnswer": "will",
+      "explanation": "We use 'will' for promises.",
+      "explanationAr": "نستخدم 'will' للوعود."
+    },
+    {
+      "id": "FSi_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I'll _____ the window.",
+      "options": [
+        "opens",
+        "opened",
+        "opening",
+        "open"
+      ],
+      "correctAnswer": "open",
+      "explanation": "We use the base form (V1) of the verb after 'will' or 'll'.",
+      "explanationAr": "نستخدم الصيغة الأساسية للفعل (V1) بعد 'will' أو 'll'."
+    },
+    {
+      "id": "FSi_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I'm thirsty. I _____ buy some water.",
+      "options": [
+        "will",
+        "am going to",
+        "buy",
+        "buying"
+      ],
+      "correctAnswer": "will",
+      "explanation": "For spontaneous decisions made at the moment of speaking, we use 'will'.",
+      "explanationAr": "للقرارات العفوية المتخذة في لحظة التحدث، نستخدم 'will'."
+    },
+    {
+      "id": "FSi_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I have a test tomorrow. I _____ study.",
+      "options": [
+        "will",
+        "am going to",
+        "study",
+        "studying"
+      ],
+      "correctAnswer": "am going to",
+      "explanation": "For plans or intentions made beforehand, we use 'going to'.",
+      "explanationAr": "للخطط أو النوايا المتخذة مسبقًا، نستخدم 'going to'."
+    },
+    {
+      "id": "FSi_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ go to the party.",
+      "options": [
+        "will not",
+        "am not",
+        "do not",
+        "did not"
+      ],
+      "correctAnswer": "will not",
+      "explanation": "The negative form of the Future Simple is 'will not' (won't).",
+      "explanationAr": "صيغة النفي للمستقبل البسيط هي 'will not' (won't)."
+    },
+    {
+      "id": "FSi_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ forget your birthday.",
+      "options": [
+        "won't",
+        "don't",
+        "isn't",
+        "didn't"
+      ],
+      "correctAnswer": "won't",
+      "explanation": "The negative contraction for 'will not' is 'won't'.",
+      "explanationAr": "الاختصار السلبي لـ 'will not' هو 'won't'."
+    },
+    {
+      "id": "FSi_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you join us?",
+      "options": [
+        "Will",
+        "Are",
+        "Do",
+        "Did"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Questions in the Future Simple start with 'Will'.",
+      "explanationAr": "الأسئلة في المستقبل البسيط تبدأ بـ 'Will'."
+    },
+    {
+      "id": "FSi_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ they arrive on time?",
+      "options": [
+        "Will",
+        "Do",
+        "Are",
+        "Have"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Questions in the Future Simple start with 'Will'.",
+      "explanationAr": "الأسئلة في المستقبل البسيط تبدأ بـ 'Will'."
+    },
+    {
+      "id": "FSi_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will you help me? Yes, I _____.",
+      "options": [
+        "will",
+        "do",
+        "am",
+        "have"
+      ],
+      "correctAnswer": "will",
+      "explanation": "The short affirmative answer is 'Yes, I will'.",
+      "explanationAr": "الإجابة القصيرة بالإيجاب هي 'Yes, I will'."
+    },
+    {
+      "id": "FSi_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will he come? No, he _____.",
+      "options": [
+        "won't",
+        "doesn't",
+        "isn't",
+        "didn't"
+      ],
+      "correctAnswer": "won't",
+      "explanation": "The short negative answer is 'No, he won't'.",
+      "explanationAr": "الإجابة القصيرة بالنفي هي 'No, he won't'."
+    },
+    {
+      "id": "FSi_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which of these is a signal word for the Future Simple?",
+      "options": [
+        "yesterday",
+        "ago",
+        "tomorrow",
+        "last week"
+      ],
+      "correctAnswer": "tomorrow",
+      "explanation": "'tomorrow' is a signal word for the future.",
+      "explanationAr": "'tomorrow' هي كلمة دلالية للمستقبل."
+    },
+    {
+      "id": "FSi_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I will see you _____.",
+      "options": [
+        "soon",
+        "ago",
+        "yesterday",
+        "last year"
+      ],
+      "correctAnswer": "soon",
+      "explanation": "'soon' is a signal word for the Future Simple.",
+      "explanationAr": "'soon' هي كلمة دلالية للمستقبل البسيط."
+    },
+    {
+      "id": "FSi_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We will travel to London _____ week.",
+      "options": [
+        "next",
+        "last",
+        "ago",
+        "in"
+      ],
+      "correctAnswer": "next",
+      "explanation": "'next week' indicates a future action.",
+      "explanationAr": "'next week' تشير إلى إجراء مستقبلي."
+    },
+    {
+      "id": "FSi_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I will visit my aunt _____.",
+      "options": [
+        "tomorrow",
+        "yesterday",
+        "ago",
+        "last day"
+      ],
+      "correctAnswer": "tomorrow",
+      "explanation": "'tomorrow' is a common signal word for the Future Simple.",
+      "explanationAr": "'tomorrow' هي كلمة دلالية شائعة للمستقبل البسيط."
+    },
+    {
+      "id": "FSi_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you come?",
+      "options": [
+        "Will",
+        "Are",
+        "Do",
+        "Have"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Questions about the future start with 'Will'.",
+      "explanationAr": "الأسئلة حول المستقبل تبدأ بـ 'Will'."
+    },
+    {
+      "id": "FSi_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ late.",
+      "options": [
+        "will be",
+        "will is",
+        "will am",
+        "will are"
+      ],
+      "correctAnswer": "will be",
+      "explanation": "The base form of the verb 'to be' is 'be'. We say 'will be'.",
+      "explanationAr": "الصيغة الأساسية للفعل 'to be' هي 'be'. نقول 'will be'."
+    },
+    {
+      "id": "FSi_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They won't _____.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "to go"
+      ],
+      "correctAnswer": "go",
+      "explanation": "After 'won't' (will not), we use the base form of the verb without 'to'.",
+      "explanationAr": "بعد 'won't' (will not)، نستخدم الصيغة الأساسية للفعل بدون 'to'."
+    },
+    {
+      "id": "FSi_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you travel?",
+      "options": [
+        "Will",
+        "Are",
+        "Do",
+        "Did"
+      ],
+      "correctAnswer": "Will",
+      "explanation": "Use 'Will' for future questions.",
+      "explanationAr": "استخدم 'Will' لأسئلة المستقبل."
+    },
+    {
+      "id": "FSi_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He won't _____ out.",
+      "options": [
+        "go",
+        "going",
+        "goes",
+        "went"
+      ],
+      "correctAnswer": "go",
+      "explanation": "Use the base verb 'go' after 'won't'.",
+      "explanationAr": "استخدم الفعل الأساسي 'go' بعد 'won't'."
+    },
+    {
+      "id": "FSi_021",
+      "type": "TRUE_FALSE",
+      "text": "'I will going to the mall.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use the base form after 'will': 'I will go to the mall.'",
+      "explanationAr": "إنه غير صحيح. يجب استخدام الصيغة الأساسية بعد 'will': 'I will go to the mall.'"
+    },
+    {
+      "id": "FSi_022",
+      "type": "TRUE_FALSE",
+      "text": "'Will he comes tomorrow?' is a correct question.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. We do not add 's' to the verb after 'will'. It should be 'Will he come tomorrow?'",
+      "explanationAr": "إنه غير صحيح. لا نضيف 's' للفعل بعد 'will'. يجب أن يكون 'Will he come tomorrow?'"
+    },
+    {
+      "id": "FSi_023",
+      "type": "TRUE_FALSE",
+      "text": "'They won't to travel.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. Do not use 'to' after 'won't'. It should be 'They won't travel.'",
+      "explanationAr": "إنه غير صحيح. لا تستخدم 'to' بعد 'won't'. يجب أن يكون 'They won't travel.'"
+    },
+    {
+      "id": "FSi_024",
+      "type": "TRUE_FALSE",
+      "text": "'I will visit my aunt tomorrow.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is correct. It uses 'will' + base form for a future action.",
+      "explanationAr": "إنه صحيح. يستخدم 'will' + الصيغة الأساسية لإجراء مستقبلي."
+    },
+    {
+      "id": "FSi_025",
+      "type": "TRUE_FALSE",
+      "text": "'I will help you.' is an example of a promise.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is true. 'will' is often used for promises.",
+      "explanationAr": "إنه صحيح. 'will' غالباً ما تستخدم للوعود."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "lessonId": "past_simple",
+  "title": "Past Simple",
+  "titleAr": "الماضي البسيط",
+  "questions": [
+    {
+      "id": "PSi_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ my homework yesterday.",
+      "options": ["finish", "finished", "finishing", "am finish"],
+      "correctAnswer": "finished",
+      "explanation": "For completed actions in the past, we use the Past Simple (V2). 'yesterday' is a signal word.",
+      "explanationAr": "للأفعال المكتملة في الماضي، نستخدم الماضي البسيط (التصريف الثاني). 'yesterday' هي كلمة دلالية."
+    },
+    {
+      "id": "PSi_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ to school by bus.",
+      "options": ["go", "went", "gone", "going"],
+      "correctAnswer": "went",
+      "explanation": "To talk about habits in the past, we use the Past Simple. The V2 of 'go' is 'went'.",
+      "explanationAr": "للتحدث عن العادات في الماضي، نستخدم الماضي البسيط. التصريف الثاني من 'go' هو 'went'."
+    },
+    {
+      "id": "PSi_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ the book.",
+      "options": ["likes", "liked", "liking", "like"],
+      "correctAnswer": "liked",
+      "explanation": "To form the Past Simple of verbs ending in -e, just add -d (like -> liked).",
+      "explanationAr": "لصياغة الماضي البسيط للأفعال التي تنتهي بحرف -e، نضيف -d فقط (مثل like -> liked)."
+    },
+    {
+      "id": "PSi_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past simple (V2) of 'see'?",
+      "options": ["see", "saw", "seen", "seeing"],
+      "correctAnswer": "saw",
+      "explanation": "The forms of 'see' are: see (V1), saw (V2), seen (V3).",
+      "explanationAr": "تصريفات الفعل 'see' هي: see (التصريف الأول)، saw (التصريف الثاني)، seen (التصريف الثالث)."
+    },
+    {
+      "id": "PSi_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past simple (V2) of 'eat'?",
+      "options": ["eaten", "eats", "ate", "eating"],
+      "correctAnswer": "ate",
+      "explanation": "The forms of 'eat' are: eat (V1), ate (V2), eaten (V3).",
+      "explanationAr": "تصريفات الفعل 'eat' هي: eat (التصريف الأول)، ate (التصريف الثاني)، eaten (التصريف الثالث)."
+    },
+    {
+      "id": "PSi_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past simple (V2) of 'have'?",
+      "options": ["has", "had", "having", "haved"],
+      "correctAnswer": "had",
+      "explanation": "The past simple (V2) of 'have' is 'had'.",
+      "explanationAr": "الماضي البسيط (التصريف الثاني) من 'have' هو 'had'."
+    },
+    {
+      "id": "PSi_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the past simple (V2) of 'think'?",
+      "options": ["thinked", "thank", "thought", "thinking"],
+      "correctAnswer": "thought",
+      "explanation": "The past simple (V2) of 'think' is 'thought'.",
+      "explanationAr": "الماضي البسيط (التصريف الثاني) من 'think' هو 'thought'."
+    },
+    {
+      "id": "PSi_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How do you form the past simple of 'study'?",
+      "options": ["studyed", "studied", "studies", "studing"],
+      "correctAnswer": "studied",
+      "explanation": "For verbs ending in a consonant + y, drop the 'y' and add '-ied'.",
+      "explanationAr": "للأفعال التي تنتهي بحرف ساكن + y، نحذف 'y' ونضيف '-ied'."
+    },
+    {
+      "id": "PSi_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "How do you form the past simple of 'stop'?",
+      "options": ["stoped", "stopped", "stopps", "stops"],
+      "correctAnswer": "stopped",
+      "explanation": "For verbs ending in a short vowel + one consonant, double the final consonant and add '-ed'.",
+      "explanationAr": "للأفعال التي تنتهي بحرف علة قصير + حرف ساكن واحد، نضاعف الحرف الساكن الأخير ونضيف '-ed'."
+    },
+    {
+      "id": "PSi_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ like coffee.",
+      "options": ["did not", "do not", "am not", "was not"],
+      "correctAnswer": "did not",
+      "explanation": "The negative form in the Past Simple is 'did not' (didn't) + V1 (base form).",
+      "explanationAr": "صيغة النفي في الماضي البسيط هي 'did not' (didn't) + التصريف الأول للفعل الأساسي."
+    },
+    {
+      "id": "PSi_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ enjoy the party.",
+      "options": ["didn't", "wasn't", "doesn't", "don't"],
+      "correctAnswer": "didn't",
+      "explanation": "The negative form in the Past Simple is 'didn't' + V1.",
+      "explanationAr": "صيغة النفي في الماضي البسيط هي 'didn't' + التصريف الأول للفعل."
+    },
+    {
+      "id": "PSi_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you like the movie?",
+      "options": ["Do", "Did", "Was", "Are"],
+      "correctAnswer": "Did",
+      "explanation": "Questions in the Past Simple start with 'Did' + Subject + V1.",
+      "explanationAr": "الأسئلة في الماضي البسيط تبدأ بـ 'Did' + الفاعل + التصريف الأول للفعل."
+    },
+    {
+      "id": "PSi_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ he call you yesterday?",
+      "options": ["Did", "Does", "Was", "Do"],
+      "correctAnswer": "Did",
+      "explanation": "Questions in the Past Simple start with 'Did'.",
+      "explanationAr": "الأسئلة في الماضي البسيط تبدأ بـ 'Did'."
+    },
+    {
+      "id": "PSi_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Did you go to the park? Yes, I _____.",
+      "options": ["do", "did", "was", "went"],
+      "correctAnswer": "did",
+      "explanation": "The short affirmative answer is 'Yes, I did'.",
+      "explanationAr": "الإجابة القصيرة المثبتة هي 'Yes, I did'."
+    },
+    {
+      "id": "PSi_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Did she leave? No, she _____.",
+      "options": ["didn't", "wasn't", "doesn't", "don't"],
+      "correctAnswer": "didn't",
+      "explanation": "The short negative answer is 'No, she didn't'.",
+      "explanationAr": "الإجابة القصيرة المنفية هي 'No, she didn't'."
+    },
+    {
+      "id": "PSi_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I saw him two days _____.",
+      "options": ["ago", "before", "last", "yesterday"],
+      "correctAnswer": "ago",
+      "explanation": "'ago' is a common signal word for the Past Simple.",
+      "explanationAr": "'ago' هي كلمة دلالية شائعة للماضي البسيط."
+    },
+    {
+      "id": "PSi_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They traveled to London _____ month.",
+      "options": ["last", "ago", "in", "yesterday"],
+      "correctAnswer": "last",
+      "explanation": "'last' (e.g., last month) is a signal word for the Past Simple.",
+      "explanationAr": "'last' (مثل last month) هي كلمة دلالية للماضي البسيط."
+    },
+    {
+      "id": "PSi_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I visited my grandparents _____ weekend.",
+      "options": ["last", "ago", "in", "yesterday"],
+      "correctAnswer": "last",
+      "explanation": "'last weekend' is a time expression for the Past Simple.",
+      "explanationAr": "'last weekend' هي تعبير زمني للماضي البسيط."
+    },
+    {
+      "id": "PSi_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We cleaned the house _____.",
+      "options": ["yesterday", "tomorrow", "now", "since"],
+      "correctAnswer": "yesterday",
+      "explanation": "'yesterday' indicates a completed action in the past.",
+      "explanationAr": "'yesterday' تشير إلى فعل مكتمل في الماضي."
+    },
+    {
+      "id": "PSi_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What _____ you do?",
+      "options": ["did", "do", "were", "are"],
+      "correctAnswer": "did",
+      "explanation": "In Wh- questions for the Past Simple, use: Wh- word + did + Subject + V1.",
+      "explanationAr": "في أسئلة Wh- في الماضي البسيط، نستخدم: كلمة Wh- + did + الفاعل + التصريف الأول للفعل."
+    },
+    {
+      "id": "PSi_021",
+      "type": "TRUE_FALSE",
+      "text": "'I play football yesterday.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. With 'yesterday', we must use the V2 form: 'I played football yesterday.'",
+      "explanationAr": "هذا غير صحيح. مع 'yesterday'، يجب أن نستخدم التصريف الثاني (V2): 'I played football yesterday.'"
+    },
+    {
+      "id": "PSi_022",
+      "type": "TRUE_FALSE",
+      "text": "'Did you went to school?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. After 'Did', we use the base form (V1): 'Did you go to school?'",
+      "explanationAr": "هذا غير صحيح. بعد 'Did'، نستخدم الفعل في المصدر (التصريف الأول): 'Did you go to school?'"
+    },
+    {
+      "id": "PSi_023",
+      "type": "TRUE_FALSE",
+      "text": "'He didn't went home.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. After 'didn't', we use the base form (V1): 'He didn't go home.'",
+      "explanationAr": "هذا غير صحيح. بعد 'didn't'، نستخدم الفعل في المصدر (التصريف الأول): 'He didn't go home.'"
+    },
+    {
+      "id": "PSi_024",
+      "type": "TRUE_FALSE",
+      "text": "'I didn't see him yesterday.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. It uses 'didn't' followed by the base form 'see'.",
+      "explanationAr": "هذا صحيح. لقد استخدمت 'didn't' متبوعة بالفعل في المصدر 'see'."
+    },
+    {
+      "id": "PSi_025",
+      "type": "TRUE_FALSE",
+      "text": "'She don't like coffee' can be used to describe her feeling in the past.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. For the past, we use 'didn't': 'She didn't like coffee.'",
+      "explanationAr": "هذا غير صحيح. للتعبير عن الماضي، نستخدم 'didn't': 'She didn't like coffee.'"
+    }
+  ]
+}

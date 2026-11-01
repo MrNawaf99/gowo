@@ -1,0 +1,347 @@
+{
+  "lessonId": "past_continuous",
+  "title": "Past Continuous",
+  "titleAr": "الماضي المستمر",
+  "questions": [
+    {
+      "id": "PCt_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ reading at 8 o'clock.",
+      "options": [
+        "was",
+        "were",
+        "am",
+        "is"
+      ],
+      "correctAnswer": "was",
+      "explanation": "With 'I', we use 'was' + V-ing.",
+      "explanationAr": "مع 'I'، نستخدم 'was' + الفعل مضافًا إليه ing."
+    },
+    {
+      "id": "PCt_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ playing football.",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "do"
+      ],
+      "correctAnswer": "were",
+      "explanation": "With 'They', we use 'were' + V-ing.",
+      "explanationAr": "مع 'They'، نستخدم 'were' + الفعل مضافًا إليه ing."
+    },
+    {
+      "id": "PCt_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ cooking dinner.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctAnswer": "was",
+      "explanation": "With 'She', we use 'was' + V-ing.",
+      "explanationAr": "مع 'She'، نستخدم 'was' + الفعل مضافًا إليه ing."
+    },
+    {
+      "id": "PCt_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I was watching TV _____ my friend called me.",
+      "options": [
+        "when",
+        "while",
+        "as",
+        "since"
+      ],
+      "correctAnswer": "when",
+      "explanation": "'when' is usually followed by the Past Simple for an interrupting action.",
+      "explanationAr": "عادةً ما يتبع 'when' الماضي البسيط للإشارة إلى حدث قاطع."
+    },
+    {
+      "id": "PCt_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She was doing homework _____ her brother was playing games.",
+      "options": [
+        "while",
+        "when",
+        "after",
+        "before"
+      ],
+      "correctAnswer": "while",
+      "explanation": "'while' is used to connect two continuous actions happening at the same time.",
+      "explanationAr": "تُستخدم 'while' لربط حدثين مستمرين يحدثان في نفس الوقت."
+    },
+    {
+      "id": "PCt_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ feeling well yesterday.",
+      "options": [
+        "wasn't",
+        "weren't",
+        "didn't",
+        "am not"
+      ],
+      "correctAnswer": "wasn't",
+      "explanation": "The negative form for 'I' is 'was not' (wasn't).",
+      "explanationAr": "صيغة النفي لـ 'I' هي 'was not' (wasn't)."
+    },
+    {
+      "id": "PCt_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ listening to the teacher.",
+      "options": [
+        "weren't",
+        "wasn't",
+        "didn't",
+        "aren't"
+      ],
+      "correctAnswer": "weren't",
+      "explanation": "The negative form for 'They' is 'were not' (weren't).",
+      "explanationAr": "صيغة النفي لـ 'They' هي 'were not' (weren't)."
+    },
+    {
+      "id": "PCt_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you studying?",
+      "options": [
+        "Was",
+        "Were",
+        "Did",
+        "Are"
+      ],
+      "correctAnswer": "Were",
+      "explanation": "Questions with 'you' in the Past Continuous start with 'Were'.",
+      "explanationAr": "الأسئلة مع 'you' في الماضي المستمر تبدأ بـ 'Were'."
+    },
+    {
+      "id": "PCt_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ he sleeping?",
+      "options": [
+        "Was",
+        "Were",
+        "Did",
+        "Is"
+      ],
+      "correctAnswer": "Was",
+      "explanation": "Questions with 'he' start with 'Was'.",
+      "explanationAr": "الأسئلة مع 'he' تبدأ بـ 'Was'."
+    },
+    {
+      "id": "PCt_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What _____ you doing?",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "are"
+      ],
+      "correctAnswer": "were",
+      "explanation": "For Wh- questions with 'you', we use 'were'.",
+      "explanationAr": "في أسئلة Wh مع 'you'، نستخدم 'were'."
+    },
+    {
+      "id": "PCt_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Was he playing? Yes, he _____.",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "is"
+      ],
+      "correctAnswer": "was",
+      "explanation": "The short affirmative answer is 'Yes, he was'.",
+      "explanationAr": "الإجابة القصيرة المثبتة هي 'Yes, he was'."
+    },
+    {
+      "id": "PCt_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Were they playing? No, they _____.",
+      "options": [
+        "wasn't",
+        "weren't",
+        "didn't",
+        "aren't"
+      ],
+      "correctAnswer": "weren't",
+      "explanation": "The short negative answer is 'No, they weren't'.",
+      "explanationAr": "الإجابة القصيرة المنفية هي 'No, they weren't'."
+    },
+    {
+      "id": "PCt_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She was working _____ night.",
+      "options": [
+        "all",
+        "while",
+        "as",
+        "at"
+      ],
+      "correctAnswer": "all",
+      "explanation": "'all night' is a signal phrase for the Past Continuous.",
+      "explanationAr": "'all night' هي عبارة دلالية للماضي المستمر."
+    },
+    {
+      "id": "PCt_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They were having dinner _____ 7 p.m. yesterday.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "while"
+      ],
+      "correctAnswer": "at",
+      "explanation": "We use 'at' for specific times, like 'at 7 p.m. yesterday'.",
+      "explanationAr": "نستخدم 'at' لأوقات محددة، مثل 'at 7 p.m. yesterday'."
+    },
+    {
+      "id": "PCt_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I was studying _____ my brother was watching TV.",
+      "options": [
+        "while",
+        "when",
+        "at",
+        "all"
+      ],
+      "correctAnswer": "while",
+      "explanation": "'while' connects two actions in progress simultaneously.",
+      "explanationAr": "'while' تربط بين حدثين مستمرين في وقت واحد."
+    },
+    {
+      "id": "PCt_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We use the _____ for the action in progress, and the _____ for the action that interrupted it.",
+      "options": [
+        "Past Continuous / Past Simple",
+        "Past Simple / Past Continuous",
+        "Present Continuous / Past Simple",
+        "Past Continuous / Present Simple"
+      ],
+      "correctAnswer": "Past Continuous / Past Simple",
+      "explanation": "The continuous action is in Past Continuous, and the interrupting action is in Past Simple.",
+      "explanationAr": "الحدث المستمر يكون في الماضي المستمر، والحدث القاطع يكون في الماضي البسيط."
+    },
+    {
+      "id": "PCt_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which is a correct signal word for Past Continuous?",
+      "options": [
+        "while",
+        "tomorrow",
+        "since",
+        "already"
+      ],
+      "correctAnswer": "while",
+      "explanation": "'while' and 'as' are common signal words for Past Continuous.",
+      "explanationAr": "'while' و 'as' من الكلمات الدلالية الشائعة للماضي المستمر."
+    },
+    {
+      "id": "PCt_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Where _____ she going?",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "is"
+      ],
+      "correctAnswer": "was",
+      "explanation": "For Wh- questions with 'she', we use 'was'.",
+      "explanationAr": "في أسئلة Wh مع 'she'، نستخدم 'was'."
+    },
+    {
+      "id": "PCt_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "It _____ raining.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "did"
+      ],
+      "correctAnswer": "was",
+      "explanation": "With 'It', we use 'was' + V-ing.",
+      "explanationAr": "مع 'It'، نستخدم 'was' + الفعل مضافًا إليه ing."
+    },
+    {
+      "id": "PCt_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ we watching TV?",
+      "options": [
+        "Were",
+        "Was",
+        "Did",
+        "Are"
+      ],
+      "correctAnswer": "Were",
+      "explanation": "Questions with 'we' start with 'Were'.",
+      "explanationAr": "الأسئلة مع 'we' تبدأ بـ 'Were'."
+    },
+    {
+      "id": "PCt_021",
+      "type": "TRUE_FALSE",
+      "text": "'I was go to school.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use the V-ing form: 'I was going to school.'",
+      "explanationAr": "هذا غير صحيح. يجب استخدام صيغة V-ing: 'I was going to school.'"
+    },
+    {
+      "id": "PCt_022",
+      "type": "TRUE_FALSE",
+      "text": "'She studying.' is missing 'was/were'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is true. The correct sentence is 'She was studying.'",
+      "explanationAr": "هذا صحيح. الجملة الصحيحة هي 'She was studying.'"
+    },
+    {
+      "id": "PCt_023",
+      "type": "TRUE_FALSE",
+      "text": "'He was plays football.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. It mixes tenses. It should be 'He was playing football.'",
+      "explanationAr": "هذا غير صحيح. يوجد خلط في الأزمنة. يجب أن تكون 'He was playing football.'"
+    },
+    {
+      "id": "PCt_024",
+      "type": "TRUE_FALSE",
+      "text": "'Was he to sleep?' is a correct question.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect word order. The subject comes before V-ing: 'Was he sleeping?'",
+      "explanationAr": "هذا ترتيب كلمات غير صحيح. الفاعل يأتي قبل V-ing: 'Was he sleeping?'"
+    },
+    {
+      "id": "PCt_025",
+      "type": "TRUE_FALSE",
+      "text": "The Past Continuous is used for actions in progress at a specific time in the past.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is correct. For example, 'I was reading at 8 o'clock yesterday.'",
+      "explanationAr": "هذا صحيح. على سبيل المثال، 'I was reading at 8 o'clock yesterday.'"
+    }
+  ]
+}

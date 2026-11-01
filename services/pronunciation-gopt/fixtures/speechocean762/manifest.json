@@ -1,0 +1,425 @@
+[
+  {
+    "file": "three_correct.wav",
+    "speechocean762_utt": "001140054",
+    "reference_text": "THREE FOUR THREE NINE",
+    "note": "THREE correct (TH scored 2.0 by annotators)",
+    "human": {
+      "utterance_accuracy_0_10": 9,
+      "words": [
+        {
+          "text": "THREE",
+          "accuracy_0_10": 10,
+          "phones": [
+            "TH",
+            "R",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            1.8,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "FOUR",
+          "accuracy_0_10": 10,
+          "phones": [
+            "F",
+            "AO0",
+            "R"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "THREE",
+          "accuracy_0_10": 10,
+          "phones": [
+            "TH",
+            "R",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "NINE",
+          "accuracy_0_10": 10,
+          "phones": [
+            "N",
+            "AY0",
+            "N"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "file": "three_mispronounced.wav",
+    "speechocean762_utt": "014220044",
+    "reference_text": "FOUR FIVE ZERO THREE",
+    "note": "THREE mispronounced (TH/R/IY scored 0 by annotators)",
+    "human": {
+      "utterance_accuracy_0_10": 5,
+      "words": [
+        {
+          "text": "FOUR",
+          "accuracy_0_10": 10,
+          "phones": [
+            "F",
+            "AO0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "FIVE",
+          "accuracy_0_10": 10,
+          "phones": [
+            "F",
+            "AY0",
+            "V"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            1.8
+          ]
+        },
+        {
+          "text": "ZERO",
+          "accuracy_0_10": 3,
+          "phones": [
+            "Z",
+            "IH",
+            "AH1",
+            "OW0"
+          ],
+          "phones_accuracy_0_2": [
+            1.6,
+            0.4,
+            0.4,
+            0.4
+          ]
+        },
+        {
+          "text": "THREE",
+          "accuracy_0_10": 2,
+          "phones": [
+            "TH",
+            "R",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "file": "think_correct.wav",
+    "speechocean762_utt": "000240352",
+    "reference_text": "I FOUND I HAD NO NEED TO THINK",
+    "note": "THINK correct (TH scored 2.0)",
+    "human": {
+      "utterance_accuracy_0_10": 9,
+      "words": [
+        {
+          "text": "I",
+          "accuracy_0_10": 10,
+          "phones": [
+            "AY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0
+          ]
+        },
+        {
+          "text": "FOUND",
+          "accuracy_0_10": 10,
+          "phones": [
+            "F",
+            "AW0",
+            "N",
+            "D"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "I",
+          "accuracy_0_10": 10,
+          "phones": [
+            "AY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0
+          ]
+        },
+        {
+          "text": "HAD",
+          "accuracy_0_10": 10,
+          "phones": [
+            "HH",
+            "AE0",
+            "D"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            1.6
+          ]
+        },
+        {
+          "text": "NO",
+          "accuracy_0_10": 10,
+          "phones": [
+            "N",
+            "OW0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "NEED",
+          "accuracy_0_10": 10,
+          "phones": [
+            "N",
+            "IY0",
+            "D"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "TO",
+          "accuracy_0_10": 10,
+          "phones": [
+            "T",
+            "UW0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "THINK",
+          "accuracy_0_10": 10,
+          "phones": [
+            "TH",
+            "IH0",
+            "NG",
+            "K"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "file": "the_dh_wrong.wav",
+    "speechocean762_utt": "014040148",
+    "reference_text": "HE LIKES THE FAMOUS CITY SYDNEY",
+    "note": "THE with DH scored 0 (different sound problem)",
+    "human": {
+      "utterance_accuracy_0_10": 4,
+      "words": [
+        {
+          "text": "HE",
+          "accuracy_0_10": 3,
+          "phones": [
+            "HH",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            0.8
+          ]
+        },
+        {
+          "text": "LIKES",
+          "accuracy_0_10": 8,
+          "phones": [
+            "L",
+            "AY0",
+            "K",
+            "S"
+          ],
+          "phones_accuracy_0_2": [
+            1.6,
+            1.6,
+            1.2,
+            1.4
+          ]
+        },
+        {
+          "text": "THE",
+          "accuracy_0_10": 0,
+          "phones": [
+            "DH",
+            "AH0"
+          ],
+          "phones_accuracy_0_2": [
+            0.0,
+            0.4
+          ]
+        },
+        {
+          "text": "FAMOUS",
+          "accuracy_0_10": 0,
+          "phones": [
+            "F",
+            "EY1",
+            "M",
+            "AH0",
+            "S"
+          ],
+          "phones_accuracy_0_2": [
+            0.8,
+            0.8,
+            0.8,
+            0.8,
+            0.8
+          ]
+        },
+        {
+          "text": "CITY",
+          "accuracy_0_10": 0,
+          "phones": [
+            "S",
+            "IH1",
+            "T",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            0.8,
+            0.8,
+            0.8,
+            0.8
+          ]
+        },
+        {
+          "text": "SYDNEY",
+          "accuracy_0_10": 0,
+          "phones": [
+            "S",
+            "IH1",
+            "D",
+            "N",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            0.8,
+            0.8,
+            0.8,
+            0.8,
+            0.8
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "file": "very_correct.wav",
+    "speechocean762_utt": "001120159",
+    "reference_text": "SHE WAS VERY PRETTY",
+    "note": "VERY correct (V scored 2.0)",
+    "human": {
+      "utterance_accuracy_0_10": 9,
+      "words": [
+        {
+          "text": "SHE",
+          "accuracy_0_10": 10,
+          "phones": [
+            "SH",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "WAS",
+          "accuracy_0_10": 10,
+          "phones": [
+            "W",
+            "AH0",
+            "Z"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "VERY",
+          "accuracy_0_10": 10,
+          "phones": [
+            "V",
+            "EH1",
+            "R",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        {
+          "text": "PRETTY",
+          "accuracy_0_10": 10,
+          "phones": [
+            "P",
+            "R",
+            "IH1",
+            "T",
+            "IY0"
+          ],
+          "phones_accuracy_0_2": [
+            2.0,
+            2.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        }
+      ]
+    }
+  }
+]

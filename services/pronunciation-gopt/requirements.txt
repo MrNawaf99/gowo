@@ -1,0 +1,7 @@
+# torch==2.4.1 (CPU wheel) is installed separately from the PyTorch CPU index; see Dockerfile.
+numpy==1.26.4
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.20
+g2p-en==2.1.0
+nltk==3.9.1

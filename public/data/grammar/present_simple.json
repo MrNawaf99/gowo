@@ -1,0 +1,232 @@
+{
+  "lessonId": "present_simple",
+  "title": "Present Simple",
+  "titleAr": "المضارع البسيط",
+  "questions": [
+    {
+      "id": "PS_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ my teeth every day.",
+      "options": ["brush", "brushes", "brushing", "am brush"],
+      "correctAnswer": "brush",
+      "explanation": "For habits with the pronoun 'I', we use the base verb 'brush'.",
+      "explanationAr": "للعادات مع الضمير 'I'، نستخدم الفعل الأساسي 'brush'."
+    },
+    {
+      "id": "PS_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ to school at 7 o'clock.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go",
+      "explanation": "For daily routines with 'I', we use the base form (V1).",
+      "explanationAr": "للروتين اليومي مع الضمير 'I'، نستخدم الفعل في صورته الأساسية (V1)."
+    },
+    {
+      "id": "PS_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "The Earth _____ around the Sun.",
+      "options": ["go", "goes", "going", "is go"],
+      "correctAnswer": "goes",
+      "explanation": "General facts use Present Simple. 'Earth' is singular (it), so we add 'es' to 'go'.",
+      "explanationAr": "نستخدم المضارع البسيط للحقائق العامة. 'Earth' (الأرض) مفرد (it)، لذلك نضيف 'es' للفعل 'go'."
+    },
+    {
+      "id": "PS_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Water _____ at 100°C.",
+      "options": ["boil", "boils", "boiled", "is boiling"],
+      "correctAnswer": "boils",
+      "explanation": "Scientific facts use Present Simple. 'Water' is uncountable (it), so we use 'boils'.",
+      "explanationAr": "نستخدم المضارع البسيط للحقائق العلمية. 'Water' (الماء) غير معدود (it)، لذلك نستخدم 'boils'."
+    },
+    {
+      "id": "PS_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "The train _____ at 6 p.m.",
+      "options": ["leave", "leaves", "leaving", "is leave"],
+      "correctAnswer": "leaves",
+      "explanation": "For timetables and schedules, we use Present Simple. 'Train' is singular, so it takes 's'.",
+      "explanationAr": "نستخدم المضارع البسيط للجداول الزمنية والمواعيد. 'Train' (القطار) مفرد، لذلك يأخذ حرف 's'."
+    },
+    {
+      "id": "PS_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ in Riyadh.",
+      "options": ["live", "lives", "living", "is live"],
+      "correctAnswer": "lives",
+      "explanation": "For permanent states with 'She', we add 's' to the verb.",
+      "explanationAr": "للحالات الدائمة مع الضمير 'She'، نضيف حرف 's' للفعل."
+    },
+    {
+      "id": "PS_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He _____ football.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "plays",
+      "explanation": "With He/She/It, we add 's' to most verbs in Present Simple.",
+      "explanationAr": "نضيف حرف 's' لمعظم الأفعال في المضارع البسيط مع الضمائر He/She/It."
+    },
+    {
+      "id": "PS_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ TV.",
+      "options": ["watch", "watches", "watching", "is watch"],
+      "correctAnswer": "watches",
+      "explanation": "Verbs ending in -ch add 'es' for He/She/It (watch -> watches).",
+      "explanationAr": "الأفعال التي تنتهي بـ -ch نضيف لها 'es' مع الضمائر He/She/It (watch -> watches)."
+    },
+    {
+      "id": "PS_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "It _____ English.",
+      "options": ["study", "studies", "studying", "is study"],
+      "correctAnswer": "studies",
+      "explanation": "For verbs ending in a consonant + y (study), we change the 'y' to 'i' and add 'es' for He/She/It.",
+      "explanationAr": "للأفعال التي تنتهي بحرف ساكن متبوع بـ 'y' (مثل study)، نغير حرف 'y' إلى 'i' ونضيف 'es' مع الضمائر He/She/It."
+    },
+    {
+      "id": "PS_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ like coffee.",
+      "options": ["doesn't", "don't", "not", "am not"],
+      "correctAnswer": "don't",
+      "explanation": "To make a negative sentence with 'I', we use 'do not' (don't) + base verb.",
+      "explanationAr": "لجعل الجملة منفية مع الضمير 'I'، نستخدم 'do not' (don't) متبوعاً بالفعل الأساسي."
+    },
+    {
+      "id": "PS_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ like tea.",
+      "options": ["don't", "doesn't", "not", "isn't"],
+      "correctAnswer": "doesn't",
+      "explanation": "To make a negative sentence with 'She', we use 'does not' (doesn't).",
+      "explanationAr": "لجعل الجملة منفية مع الضمير 'She'، نستخدم 'does not' (doesn't)."
+    },
+    {
+      "id": "PS_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you like ice cream?",
+      "options": ["Does", "Do", "Are", "Is"],
+      "correctAnswer": "Do",
+      "explanation": "Questions with I/You/We/They start with 'Do'.",
+      "explanationAr": "الأسئلة مع الضمائر I/You/We/They تبدأ بـ 'Do'."
+    },
+    {
+      "id": "PS_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ he live here?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctAnswer": "Does",
+      "explanation": "Questions with He/She/It start with 'Does'.",
+      "explanationAr": "الأسئلة مع الضمائر He/She/It تبدأ بـ 'Does'."
+    },
+    {
+      "id": "PS_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ she speak English?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "correctAnswer": "Does",
+      "explanation": "Questions with He/She/It start with 'Does'.",
+      "explanationAr": "الأسئلة مع الضمائر He/She/It تبدأ بـ 'Does'."
+    },
+    {
+      "id": "PS_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We go to school _____ the morning.",
+      "options": ["at", "on", "in", "by"],
+      "correctAnswer": "in",
+      "explanation": "'In the morning' is a signal phrase often used with Present Simple for routines.",
+      "explanationAr": "عبارة 'In the morning' من الكلمات الدالة التي غالباً ما تستخدم مع المضارع البسيط للتعبير عن الروتين."
+    },
+    {
+      "id": "PS_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ football.",
+      "options": ["plays", "playing", "play", "are play"],
+      "correctAnswer": "play",
+      "explanation": "With I/You/We/They, we use the base form of the verb without 's'.",
+      "explanationAr": "مع الضمائر I/You/We/They، نستخدم الفعل في صورته الأساسية بدون حرف 's'."
+    },
+    {
+      "id": "PS_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He _____ work?",
+      "options": ["Does it", "Do it", "Are it", "Is it"],
+      "correctAnswer": "Does it",
+      "explanation": "Questions with 'it' start with 'Does'.",
+      "explanationAr": "الأسئلة مع الضمير 'it' تبدأ بـ 'Does'."
+    },
+    {
+      "id": "PS_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I drink water _____ day.",
+      "options": ["always", "every", "often", "never"],
+      "correctAnswer": "every",
+      "explanation": "'Every day' is a signal phrase for Present Simple.",
+      "explanationAr": "عبارة 'Every day' (كل يوم) هي كلمة دالة على المضارع البسيط."
+    },
+    {
+      "id": "PS_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He goes to school _____ bus.",
+      "options": ["on", "in", "by", "at"],
+      "correctAnswer": "by",
+      "explanation": "We use 'by' for methods of transport like 'by bus'.",
+      "explanationAr": "نستخدم 'by' لوسائل النقل مثل 'by bus' (بالحافلة)."
+    },
+    {
+      "id": "PS_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She reads a book at _____.",
+      "options": ["morning", "night", "every", "usually"],
+      "correctAnswer": "night",
+      "explanation": "The correct signal phrase is 'at night'.",
+      "explanationAr": "العبارة الدالة الصحيحة هي 'at night' (في الليل)."
+    },
+    {
+      "id": "PS_021",
+      "type": "TRUE_FALSE",
+      "text": "'He play football.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The correct sentence is 'He plays football.' because 'He' needs an 's' on the verb.",
+      "explanationAr": "إنها غير صحيحة. الجملة الصحيحة هي 'He plays football.' لأن الضمير 'He' يحتاج إلى حرف 's' في الفعل."
+    },
+    {
+      "id": "PS_022",
+      "type": "TRUE_FALSE",
+      "text": "'She don't like tea.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The correct sentence is 'She doesn't like tea.' We use 'doesn't' with 'She'.",
+      "explanationAr": "إنها غير صحيحة. الجملة الصحيحة هي 'She doesn't like tea.' نستخدم 'doesn't' مع الضمير 'She'."
+    },
+    {
+      "id": "PS_023",
+      "type": "TRUE_FALSE",
+      "text": "'Does he plays?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The correct question is 'Does he play?'. After 'does', we always use the base form (V1).",
+      "explanationAr": "إنه غير صحيح. السؤال الصحيح هو 'Does he play?'. بعد 'does'، نستخدم دائماً الفعل في صورته الأساسية (V1)."
+    },
+    {
+      "id": "PS_024",
+      "type": "TRUE_FALSE",
+      "text": "'They plays football.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The correct sentence is 'They play football.' We only add 's' for He/She/It.",
+      "explanationAr": "إنها غير صحيحة. الجملة الصحيحة هي 'They play football.' نضيف 's' فقط للضمائر He/She/It."
+    },
+    {
+      "id": "PS_025",
+      "type": "TRUE_FALSE",
+      "text": "'It rains a lot in winter.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. We use Present Simple for facts and add 's' because the subject is 'It'.",
+      "explanationAr": "إنها صحيحة. نستخدم المضارع البسيط للحقائق ونضيف حرف 's' لأن الفاعل هو 'It'."
+    }
+  ]
+}

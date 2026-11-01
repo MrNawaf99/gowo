@@ -1,0 +1,347 @@
+{
+  "lessonId": "past_perfect_continuous",
+  "title": "Past Perfect Continuous",
+  "titleAr": "الماضي التام المستمر",
+  "questions": [
+    {
+      "id": "PPCt_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ studying for two hours before the test.",
+      "options": [
+        "had been",
+        "have been",
+        "was",
+        "am"
+      ],
+      "correctAnswer": "had been",
+      "explanation": "For an action ongoing until another point in the past, use the Past Perfect Continuous (had been + V-ing).",
+      "explanationAr": "للتعبير عن حدث كان مستمراً حتى نقطة أخرى في الماضي، نستخدم الماضي التام المستمر (had been + V-ing)."
+    },
+    {
+      "id": "PPCt_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ watering the plants before it started to rain.",
+      "options": [
+        "have been",
+        "has been",
+        "had been",
+        "is"
+      ],
+      "correctAnswer": "had been",
+      "explanation": "The action (watering) was ongoing until another past action (started to rain), so we use 'had been'.",
+      "explanationAr": "كان الحدث (الري) مستمراً حتى حدوث فعل آخر في الماضي (بدأ المطر)، لذا نستخدم 'had been'."
+    },
+    {
+      "id": "PPCt_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ waiting at the station for an hour before the train arrived.",
+      "options": [
+        "have been",
+        "had been",
+        "are",
+        "were"
+      ],
+      "correctAnswer": "had been",
+      "explanation": "The action was ongoing in the past up to a specific point (before the train arrived), so we use Past Perfect Continuous.",
+      "explanationAr": "كان الحدث مستمراً في الماضي حتى نقطة معينة (قبل وصول القطار)، لذا نستخدم الماضي التام المستمر."
+    },
+    {
+      "id": "PPCt_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He had been playing football _____ an hour before it started to rain.",
+      "options": [
+        "for",
+        "since",
+        "while",
+        "during"
+      ],
+      "correctAnswer": "for",
+      "explanation": "'an hour' is a period of time, so we use 'for'.",
+      "explanationAr": "'an hour' (ساعة) هي فترة زمنية، لذا نستخدم 'for'."
+    },
+    {
+      "id": "PPCt_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We had been waiting for the bus _____ morning.",
+      "options": [
+        "for",
+        "since",
+        "while",
+        "during"
+      ],
+      "correctAnswer": "since",
+      "explanation": "'morning' is a starting point in the past, so we use 'since'.",
+      "explanationAr": "'morning' (الصباح) هي نقطة بداية في الماضي، لذا نستخدم 'since'."
+    },
+    {
+      "id": "PPCt_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She had been working here for five years _____ she left.",
+      "options": [
+        "since",
+        "before",
+        "after",
+        "while"
+      ],
+      "correctAnswer": "before",
+      "explanation": "'before' indicates that the first action happened earlier than another past action (she left).",
+      "explanationAr": "'before' تشير إلى أن الحدث الأول وقع قبل حدث آخر في الماضي (غادرت)."
+    },
+    {
+      "id": "PPCt_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ been working all day before the meeting.",
+      "options": [
+        "haven't",
+        "hadn't",
+        "wasn't",
+        "didn't"
+      ],
+      "correctAnswer": "hadn't",
+      "explanation": "The negative form is 'had not' (hadn't) + been + V-ing.",
+      "explanationAr": "صيغة النفي هي 'had not' (hadn't) + been + V-ing."
+    },
+    {
+      "id": "PPCt_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She _____ been studying English before she moved to Canada.",
+      "options": [
+        "hadn't",
+        "hasn't",
+        "wasn't",
+        "isn't"
+      ],
+      "correctAnswer": "hadn't",
+      "explanation": "The negative form is 'had not' (hadn't) + been + V-ing.",
+      "explanationAr": "صيغة النفي هي 'had not' (hadn't) + been + V-ing."
+    },
+    {
+      "id": "PPCt_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you been waiting long before I arrived?",
+      "options": [
+        "Had",
+        "Have",
+        "Were",
+        "Did"
+      ],
+      "correctAnswer": "Had",
+      "explanation": "Questions start with 'Had' + Subject + been + V-ing.",
+      "explanationAr": "تبدأ الأسئلة بـ 'Had' + الفاعل + been + V-ing."
+    },
+    {
+      "id": "PPCt_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ he been studying for the test before he felt sick?",
+      "options": [
+        "Had",
+        "Has",
+        "Was",
+        "Did"
+      ],
+      "correctAnswer": "Had",
+      "explanation": "Questions start with 'Had' + Subject + been + V-ing.",
+      "explanationAr": "تبدأ الأسئلة بـ 'Had' + الفاعل + been + V-ing."
+    },
+    {
+      "id": "PPCt_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Had you been working? Yes, I _____.",
+      "options": [
+        "had",
+        "have",
+        "was",
+        "did"
+      ],
+      "correctAnswer": "had",
+      "explanation": "The short affirmative answer is 'Yes, I had'.",
+      "explanationAr": "الإجابة القصيرة المثبتة هي 'Yes, I had'."
+    },
+    {
+      "id": "PPCt_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Had he been waiting? No, he _____.",
+      "options": [
+        "hadn't",
+        "hasn't",
+        "wasn't",
+        "didn't"
+      ],
+      "correctAnswer": "hadn't",
+      "explanation": "The short negative answer is 'No, he hadn't'.",
+      "explanationAr": "الإجابة القصيرة المنفية هي 'No, he hadn't'."
+    },
+    {
+      "id": "PPCt_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "The Past Perfect Continuous shows _____ long an action had been happening.",
+      "options": [
+        "how",
+        "when",
+        "why",
+        "where"
+      ],
+      "correctAnswer": "how",
+      "explanation": "This tense emphasizes the duration (how long) of an action.",
+      "explanationAr": "يؤكد هذا الزمن على مدة (how long) استمرار الحدث."
+    },
+    {
+      "id": "PPCt_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the structure of the Past Perfect Continuous?",
+      "options": [
+        "had + been + V-ing",
+        "has + been + V-ing",
+        "was + V-ing",
+        "had + V3"
+      ],
+      "correctAnswer": "had + been + V-ing",
+      "explanation": "The structure uses 'had', 'been', and a verb ending in -ing.",
+      "explanationAr": "يستخدم التركيب 'had' و 'been' وفعل ينتهي بـ -ing."
+    },
+    {
+      "id": "PPCt_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "He had been _____ all day.",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "worked"
+      ],
+      "correctAnswer": "working",
+      "explanation": "We must use the V-ing form after 'had been'.",
+      "explanationAr": "يجب أن نستخدم صيغة الفعل المنتهي بـ -ing بعد 'had been'."
+    },
+    {
+      "id": "PPCt_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They had been waiting _____ long when the bus arrived.",
+      "options": [
+        "hadn't",
+        "haven't",
+        "aren't",
+        "isn't"
+      ],
+      "correctAnswer": "hadn't",
+      "explanation": "The negative form is 'They hadn't been waiting...'.",
+      "explanationAr": "صيغة النفي هي 'They hadn't been waiting...'."
+    },
+    {
+      "id": "PPCt_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Which word is NOT a typical signal word for the Past Perfect Continuous?",
+      "options": [
+        "for",
+        "since",
+        "before",
+        "tomorrow"
+      ],
+      "correctAnswer": "tomorrow",
+      "explanation": "'tomorrow' is a future signal word, not past.",
+      "explanationAr": "'tomorrow' (غدًا) هي كلمة دالة على المستقبل، وليس الماضي."
+    },
+    {
+      "id": "PPCt_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She had been living in Paris _____ 2018.",
+      "options": [
+        "for",
+        "since",
+        "before",
+        "while"
+      ],
+      "correctAnswer": "since",
+      "explanation": "2018 is a starting point, so we use 'since'.",
+      "explanationAr": "2018 هي نقطة بداية، لذا نستخدم 'since'."
+    },
+    {
+      "id": "PPCt_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They had been practicing _____ the competition began.",
+      "options": [
+        "before",
+        "for",
+        "since",
+        "after"
+      ],
+      "correctAnswer": "before",
+      "explanation": "The practice happened 'before' the competition began.",
+      "explanationAr": "حدث التدريب 'قبل' (before) أن تبدأ المنافسة."
+    },
+    {
+      "id": "PPCt_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We had been reading _____ two hours.",
+      "options": [
+        "for",
+        "since",
+        "before",
+        "during"
+      ],
+      "correctAnswer": "for",
+      "explanation": "'two hours' is a period of time, so we use 'for'.",
+      "explanationAr": "'two hours' (ساعتان) هي فترة زمنية، لذا نستخدم 'for'."
+    },
+    {
+      "id": "PPCt_021",
+      "type": "TRUE_FALSE",
+      "text": "'He had been work all day.' is a correct sentence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use the V-ing form: 'He had been working all day.'",
+      "explanationAr": "إنها خاطئة. يجب استخدام صيغة الفعل بـ -ing: 'He had been working all day.'"
+    },
+    {
+      "id": "PPCt_022",
+      "type": "TRUE_FALSE",
+      "text": "'I had been studying since two hours.' is correct.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. 'two hours' is a period of time, so use 'for': 'I had been studying for two hours.'",
+      "explanationAr": "إنها خاطئة. 'two hours' هي فترة زمنية، لذا استخدم 'for': 'I had been studying for two hours.'"
+    },
+    {
+      "id": "PPCt_023",
+      "type": "TRUE_FALSE",
+      "text": "'Did you had been waiting long?' is a correct question.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. The question format is 'Had you been waiting long?'",
+      "explanationAr": "إنها خاطئة. صيغة السؤال هي 'Had you been waiting long?'"
+    },
+    {
+      "id": "PPCt_024",
+      "type": "TRUE_FALSE",
+      "text": "'She hasn't been working since 5 years (before she left).' is correct.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. It mixes tenses and uses 'since' for a period. It should be: 'She hadn't been working for 5 years (before she left).'",
+      "explanationAr": "إنها خاطئة. فهي تخلط بين الأزمنة وتستخدم 'since' مع فترة. يجب أن تكون: 'She hadn't been working for 5 years (before she left).'"
+    },
+    {
+      "id": "PPCt_025",
+      "type": "TRUE_FALSE",
+      "text": "'They had been waiting at the station for an hour before the train arrived.' is correct.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "It is correct. It properly uses 'had been waiting' and 'for' with a time period.",
+      "explanationAr": "إنها صحيحة. فهي تستخدم 'had been waiting' بشكل صحيح و 'for' مع فترة زمنية."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "lessonId": "future_continuous",
+  "title": "Future Continuous",
+  "titleAr": "المستقبل المستمر",
+  "questions": [
+    {
+      "id": "FC_001",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ studying at 8 o'clock tomorrow.",
+      "options": ["will be", "will", "am", "was"],
+      "correctAnswer": "will be",
+      "explanation": "For an action in progress at a specific time in the future, we use Future Continuous: will be + V-ing.",
+      "explanationAr": "لحدث مستمر في وقت محدد في المستقبل، نستخدم المستقبل المستمر: will be + V-ing."
+    },
+    {
+      "id": "FC_002",
+      "type": "MULTIPLE_CHOICE",
+      "text": "This time next week, I _____ traveling.",
+      "options": ["will be", "will", "am", "was"],
+      "correctAnswer": "will be",
+      "explanation": "We use Future Continuous for a future duration.",
+      "explanationAr": "نستخدم المستقبل المستمر لفترة زمنية في المستقبل."
+    },
+    {
+      "id": "FC_003",
+      "type": "MULTIPLE_CHOICE",
+      "text": "While you are sleeping, I _____ working.",
+      "options": ["will be", "will", "am", "was"],
+      "correctAnswer": "will be",
+      "explanation": "For parallel actions in the future, we can use the Future Continuous.",
+      "explanationAr": "للأحداث المتوازية في المستقبل، يمكننا استخدام المستقبل المستمر."
+    },
+    {
+      "id": "FC_004",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you be using the car tomorrow?",
+      "options": ["Will", "Are", "Do", "Did"],
+      "correctAnswer": "Will",
+      "explanation": "For polite inquiries about the future, we can use the Future Continuous starting with 'Will'.",
+      "explanationAr": "للاستفسارات المهذبة حول المستقبل، يمكننا استخدام المستقبل المستمر بدءًا من 'Will'."
+    },
+    {
+      "id": "FC_005",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ meeting the client at noon.",
+      "options": ["will be", "will", "are", "do"],
+      "correctAnswer": "will be",
+      "explanation": "We use 'will be' + V-ing for assumptions about future actions in progress.",
+      "explanationAr": "نستخدم 'will be' + V-ing للافتراضات حول أحداث مستقبلية مستمرة."
+    },
+    {
+      "id": "FC_006",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I _____ sleeping at 10 pm tonight.",
+      "options": ["won't be", "don't be", "am not", "will not"],
+      "correctAnswer": "won't be",
+      "explanation": "The negative form of Future Continuous is 'will not be' or 'won't be' + V-ing.",
+      "explanationAr": "صيغة النفي في المستقبل المستمر هي 'will not be' أو 'won't be' + V-ing."
+    },
+    {
+      "id": "FC_007",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They _____ coming this weekend.",
+      "options": ["won't be", "aren't be", "don't be", "didn't be"],
+      "correctAnswer": "won't be",
+      "explanation": "The negative form is 'won't be' + V-ing.",
+      "explanationAr": "صيغة النفي هي 'won't be' + V-ing."
+    },
+    {
+      "id": "FC_008",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ you be working the meeting tomorrow?",
+      "options": ["Will", "Are", "Do", "Have"],
+      "correctAnswer": "Will",
+      "explanation": "Questions in the Future Continuous start with 'Will'.",
+      "explanationAr": "الأسئلة في المستقبل المستمر تبدأ بـ 'Will'."
+    },
+    {
+      "id": "FC_009",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ they be traveling next week?",
+      "options": ["Will", "Are", "Do", "Have"],
+      "correctAnswer": "Will",
+      "explanation": "Questions start with 'Will' + Subject + be + V-ing.",
+      "explanationAr": "الأسئلة تبدأ بـ 'Will' + الفاعل + be + V-ing."
+    },
+    {
+      "id": "FC_010",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will you be watching the match? Yes, I _____.",
+      "options": ["will", "will be", "am", "do"],
+      "correctAnswer": "will",
+      "explanation": "The short affirmative answer is 'Yes, I will'.",
+      "explanationAr": "الإجابة القصيرة بالإثبات هي 'Yes, I will'."
+    },
+    {
+      "id": "FC_011",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will they be coming tonight? No, they _____.",
+      "options": ["won't", "won't be", "aren't", "don't"],
+      "correctAnswer": "won't",
+      "explanation": "The short negative answer is 'No, they won't'.",
+      "explanationAr": "الإجابة القصيرة بالنفي هي 'No, they won't'."
+    },
+    {
+      "id": "FC_012",
+      "type": "MULTIPLE_CHOICE",
+      "text": "What is the structure of the Future Continuous?",
+      "options": ["will be + V-ing", "will + V1", "will have + V3", "am going to + V1"],
+      "correctAnswer": "will be + V-ing",
+      "explanation": "The structure uses 'will be' followed by the verb with an -ing ending.",
+      "explanationAr": "تستخدم البنية 'will be' متبوعة بالفعل مع إضافة -ing."
+    },
+    {
+      "id": "FC_013",
+      "type": "MULTIPLE_CHOICE",
+      "text": "She will be _____ a training course next month.",
+      "options": ["attending", "attend", "attends", "attended"],
+      "correctAnswer": "attending",
+      "explanation": "After 'will be', we use the V-ing form.",
+      "explanationAr": "بعد 'will be'، نستخدم صيغة V-ing."
+    },
+    {
+      "id": "FC_014",
+      "type": "MULTIPLE_CHOICE",
+      "text": "We will be _____ the team next Monday.",
+      "options": ["meeting", "meet", "meets", "met"],
+      "correctAnswer": "meeting",
+      "explanation": "After 'will be', we use the V-ing form.",
+      "explanationAr": "بعد 'will be'، نستخدم صيغة V-ing."
+    },
+    {
+      "id": "FC_015",
+      "type": "MULTIPLE_CHOICE",
+      "text": "They will be _____ dinner at a restaurant in the evening.",
+      "options": ["having", "have", "has", "had"],
+      "correctAnswer": "having",
+      "explanation": "After 'will be', we use the V-ing form.",
+      "explanationAr": "بعد 'will be'، نستخدم صيغة V-ing."
+    },
+    {
+      "id": "FC_016",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I will be flying to Dubai _____.",
+      "options": ["tomorrow", "yesterday", "ago", "last week"],
+      "correctAnswer": "tomorrow",
+      "explanation": "'tomorrow' is a signal word for the future.",
+      "explanationAr": "'tomorrow' (غدًا) هي كلمة دالة على المستقبل."
+    },
+    {
+      "id": "FC_017",
+      "type": "MULTIPLE_CHOICE",
+      "text": "_____ time tomorrow, I will be working.",
+      "options": ["This", "That", "In", "On"],
+      "correctAnswer": "This",
+      "explanation": "'This time tomorrow' is a common signal phrase for the Future Continuous.",
+      "explanationAr": "'This time tomorrow' (في مثل هذا الوقت غدًا) هي عبارة دالة شائعة للمستقبل المستمر."
+    },
+    {
+      "id": "FC_018",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I will be studying _____ two hours.",
+      "options": ["in", "on", "at", "by"],
+      "correctAnswer": "in",
+      "explanation": "'in two hours' indicates a future time when an action will be in progress.",
+      "explanationAr": "'in two hours' (خلال ساعتين) تشير إلى وقت في المستقبل حيث سيكون الحدث مستمراً."
+    },
+    {
+      "id": "FC_019",
+      "type": "MULTIPLE_CHOICE",
+      "text": "I won't _____ working this weekend.",
+      "options": ["be", "am", "is", "are"],
+      "correctAnswer": "be",
+      "explanation": "The negative form is 'won't be' + V-ing.",
+      "explanationAr": "صيغة النفي هي 'won't be' + V-ing."
+    },
+    {
+      "id": "FC_020",
+      "type": "MULTIPLE_CHOICE",
+      "text": "Will she _____ working on Friday?",
+      "options": ["be", "is", "am", "are"],
+      "correctAnswer": "be",
+      "explanation": "The question form is 'Will' + Subject + 'be' + V-ing.",
+      "explanationAr": "صيغة السؤال هي 'Will' + الفاعل + 'be' + V-ing."
+    },
+    {
+      "id": "FC_021",
+      "type": "TRUE_FALSE",
+      "text": "'I will studying at 8 pm.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You need 'be' before the V-ing: 'I will be studying at 8 pm.'",
+      "explanationAr": "إنها خاطئة. تحتاج إلى 'be' قبل V-ing: 'I will be studying at 8 pm.'"
+    },
+    {
+      "id": "FC_022",
+      "type": "TRUE_FALSE",
+      "text": "'She will be work tomorrow.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must add -ing to the verb: 'She will be working tomorrow.'",
+      "explanationAr": "إنها خاطئة. يجب إضافة -ing للفعل: 'She will be working tomorrow.'"
+    },
+    {
+      "id": "FC_023",
+      "type": "TRUE_FALSE",
+      "text": "'Will you be goes to the party?' is a correct question.",
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "explanation": "It is incorrect. You must use the V-ing form: 'Will you be going to the party?'",
+      "explanationAr": "إنها خاطئة. يجب استخدام صيغة V-ing: 'Will you be going to the party?'"
+    },
+    {
+      "id": "FC_024",
+      "type": "TRUE_FALSE",
+      "text": "'I will be visiting my friend.' is a correct sentence.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. It properly uses 'will be' + V-ing.",
+      "explanationAr": "إنها صحيحة. تستخدم بشكل صحيح 'will be' + V-ing."
+    },
+    {
+      "id": "FC_025",
+      "type": "TRUE_FALSE",
+      "text": "'This time next week, I will be traveling.' emphasizes an action in progress in the future.",
+      "options": ["True", "False"],
+      "correctAnswer": "True",
+      "explanation": "It is correct. 'This time next week' points to a specific future moment when the traveling will be happening.",
+      "explanationAr": "إنها صحيحة. 'This time next week' تشير إلى لحظة مستقبلية محددة حيث سيكون السفر مستمراً."
+    }
+  ]
+}
